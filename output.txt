@@ -1,0 +1,273 @@
+accounting
+	 Synset('accounting.n.01')
+	 Synset('accounting.n.02')
+	 Synset('accountancy.n.01')
+	 Synset('accounting.n.04')
+	 Synset('account.n.07')
+	 Synset('account.v.01')
+	 Synset('account.v.02')
+	 Synset('report.v.01')
+	 Synset('account.v.04')
+airport
+	 Synset('airport.n.01')
+amusement_park
+	 Synset('amusement_park.n.01')
+aquarium
+	 Synset('aquarium.n.01')
+art_gallery
+	 Synset('gallery.n.03')
+atm
+	 Synset('standard_atmosphere.n.01')
+	 Synset('asynchronous_transfer_mode.n.01')
+	 Synset('cash_machine.n.01')
+bakery
+	 Synset('bakery.n.01')
+bank
+	 Synset('bank.n.01')
+	 Synset('depository_financial_institution.n.01')
+	 Synset('bank.n.03')
+	 Synset('bank.n.04')
+	 Synset('bank.n.05')
+	 Synset('bank.n.06')
+	 Synset('bank.n.07')
+	 Synset('savings_bank.n.02')
+	 Synset('bank.n.09')
+	 Synset('bank.n.10')
+	 Synset('bank.v.01')
+	 Synset('bank.v.02')
+	 Synset('bank.v.03')
+	 Synset('bank.v.04')
+	 Synset('bank.v.05')
+	 Synset('deposit.v.02')
+	 Synset('bank.v.07')
+	 Synset('trust.v.01')
+bar
+	 Synset('barroom.n.01')
+	 Synset('bar.n.02')
+	 Synset('bar.n.03')
+	 Synset('measure.n.07')
+	 Synset('bar.n.05')
+	 Synset('prevention.n.01')
+	 Synset('bar.n.07')
+	 Synset('bar.n.08')
+	 Synset('legal_profession.n.01')
+	 Synset('stripe.n.05')
+	 Synset('cake.n.01')
+	 Synset('browning_automatic_rifle.n.01')
+	 Synset('bar.n.13')
+	 Synset('bar.n.14')
+	 Synset('bar.n.15')
+	 Synset('bar.v.01')
+	 Synset('barricade.v.01')
+	 Synset('banish.v.03')
+	 Synset('bar.v.04')
+beauty_salon
+	 Synset('salon.n.02')
+bicycle_store
+book_store
+bowling_alley
+	 Synset('bowling_alley.n.01')
+	 Synset('bowling_alley.n.02')
+bus_station
+	 Synset('bus_terminal.n.01')
+cafe
+	 Synset('cafe.n.01')
+campground
+	 Synset('campsite.n.01')
+car_dealer
+	 Synset('car_dealer.n.01')
+car_rental
+	 Synset('car_rental.n.01')
+car_repair
+car_wash
+casino
+	 Synset('casino.n.01')
+	 Synset('casino.n.02')
+cemetery
+	 Synset('cemetery.n.01')
+church
+	 Synset('church.n.01')
+	 Synset('church.n.02')
+	 Synset('church_service.n.01')
+	 Synset('church.n.04')
+	 Synset('church.v.01')
+city_hall
+	 Synset('city_hall.n.01')
+clothing_store
+	 Synset('clothing_store.n.01')
+convenience_store
+	 Synset('convenience_store.n.01')
+courthouse
+	 Synset('courthouse.n.01')
+	 Synset('courthouse.n.02')
+dentist
+	 Synset('dentist.n.01')
+department_store
+	 Synset('department_store.n.01')
+doctor
+	 Synset('doctor.n.01')
+	 Synset('doctor_of_the_church.n.01')
+	 Synset('doctor.n.03')
+	 Synset('doctor.n.04')
+	 Synset('sophisticate.v.03')
+	 Synset('doctor.v.02')
+	 Synset('repair.v.01')
+electrician
+	 Synset('electrician.n.01')
+electronics_store
+embassy
+	 Synset('embassy.n.01')
+	 Synset('embassy.n.02')
+fire_station
+	 Synset('fire_station.n.01')
+florist
+	 Synset('florist.n.01')
+	 Synset('florist.n.02')
+funeral_home
+	 Synset('funeral_home.n.01')
+furniture_store
+gas_station
+	 Synset('gasoline_station.n.01')
+gym
+	 Synset('gymnasium.n.02')
+hair_care
+	 Synset('hair_care.n.01')
+hardware_store
+	 Synset('hardware_store.n.01')
+hindu_temple
+home_goods_store
+hospital
+	 Synset('hospital.n.01')
+	 Synset('hospital.n.02')
+insurance_agency
+jewelry_store
+	 Synset('jewelry_dealer.n.01')
+laundry
+	 Synset('laundry.n.01')
+	 Synset('laundry.n.02')
+lawyer
+	 Synset('lawyer.n.01')
+library
+	 Synset('library.n.01')
+	 Synset('library.n.02')
+	 Synset('library.n.03')
+	 Synset('library.n.04')
+	 Synset('library.n.05')
+liquor_store
+	 Synset('package_store.n.01')
+local_government_office
+locksmith
+	 Synset('locksmith.n.01')
+lodging
+	 Synset('housing.n.01')
+	 Synset('lodgment.n.02')
+	 Synset('lodging.n.03')
+	 Synset('lodge.v.01')
+	 Synset('lodge.v.02')
+	 Synset('charge.v.06')
+	 Synset('lodge.v.04')
+meal_delivery
+meal_takeaway
+mosque
+	 Synset('mosque.n.01')
+movie_rental
+movie_theater
+	 Synset('cinema.n.02')
+moving_company
+	 Synset('mover.n.04')
+museum
+	 Synset('museum.n.01')
+night_club
+	 Synset('cabaret.n.01')
+painter
+	 Synset('painter.n.01')
+	 Synset('painter.n.02')
+	 Synset('painter.n.03')
+	 Synset('cougar.n.01')
+park
+	 Synset('park.n.01')
+	 Synset('park.n.02')
+	 Synset('ballpark.n.01')
+	 Synset('park.n.04')
+	 Synset('parking_lot.n.01')
+	 Synset('park.n.06')
+	 Synset('park.v.01')
+	 Synset('park.v.02')
+parking
+	 Synset('parking.n.01')
+	 Synset('parking.n.02')
+	 Synset('park.v.01')
+	 Synset('park.v.02')
+pet_store
+pharmacy
+	 Synset('pharmacy.n.01')
+	 Synset('drugstore.n.01')
+physiotherapist
+	 Synset('physical_therapist.n.01')
+plumber
+	 Synset('plumber.n.01')
+police
+	 Synset('police.n.01')
+	 Synset('patrol.v.01')
+post_office
+	 Synset('post_office.n.01')
+	 Synset('united_states_post_office.n.01')
+	 Synset('post_office.n.03')
+real_estate_agency
+restaurant
+	 Synset('restaurant.n.01')
+roofing_contractor
+rv_park
+school
+	 Synset('school.n.01')
+	 Synset('school.n.02')
+	 Synset('school.n.03')
+	 Synset('school.n.04')
+	 Synset('school.n.05')
+	 Synset('school.n.06')
+	 Synset('school.n.07')
+	 Synset('school.v.01')
+	 Synset('educate.v.03')
+	 Synset('school.v.03')
+shoe_store
+	 Synset('shoe_shop.n.01')
+shopping_mall
+	 Synset('plaza.n.02')
+spa
+	 Synset('watering_place.n.01')
+	 Synset('resort_hotel.n.02')
+	 Synset('health_spa.n.01')
+stadium
+	 Synset('stadium.n.01')
+storage
+	 Synset('storage.n.01')
+	 Synset('storehouse.n.01')
+	 Synset('storage.n.03')
+	 Synset('storage.n.04')
+	 Synset('memory.n.04')
+	 Synset('repositing.n.01')
+store
+	 Synset('shop.n.01')
+	 Synset('store.n.02')
+	 Synset('memory.n.04')
+	 Synset('storehouse.n.01')
+	 Synset('store.v.01')
+	 Synset('store.v.02')
+subway_station
+	 Synset('subway_station.n.01')
+synagogue
+	 Synset('synagogue.n.01')
+taxi_stand
+train_station
+	 Synset('railway_station.n.01')
+transit_station
+travel_agency
+	 Synset('travel_agency.n.01')
+university
+	 Synset('university.n.01')
+	 Synset('university.n.02')
+	 Synset('university.n.03')
+veterinary_care
+zoo
+	 Synset('menagerie.n.02')
+
