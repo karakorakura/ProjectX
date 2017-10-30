@@ -14,7 +14,7 @@ for line in file:
 	tagword=line.split()
 	tag_syn=api.words(ml=tagword[0])
 	for x in tag_syn:
-		writefile.write(x[u'word'].encode('ascii','ignore')+" "+tagword[1]+"\n")
+		writefile.write(x[u'word'].encode('ascii','ignore')+"__label__"+tagword[1]+"\n")
 
 writefile.close()
 file.close()
