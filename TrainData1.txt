@@ -1,0 +1,3207 @@
+__label__grocery_or_supermarket , kales
+__label__florist , phalaenopsis
+__label__bar , lager
+__label__florist , flora
+__label__hardware_store , cooler
+__label__clothing_store , garments
+__label__cafe , coffer
+__label__jewelry_store , ornamentation
+__label__department_store , glucose
+__label__atm , fluid
+__label__hardware_store , bucket
+__label__grocery_or_supermarket , oranges
+__label__department_store , tea service
+__label__bar , folk music
+__label__shoe_store , nikes
+__label__veterinary_care , polyethylene
+__label__atm , account
+__label__shoe_store , slacks
+__label__department_store , rhubarb
+__label__hardware_store , measures
+__label__bank , pay
+__label__furniture_store , chintz
+__label__department_store , chipset
+__label__bar , alcoholicity
+__label__hardware_store , conventions
+__label__book_store , parchment
+__label__clothing_store , blankets
+__label__shoe_store , badminton racquet
+__label__bar , methadone
+__label__department_store , tea
+__label__clothing_store , shoes
+__label__hardware_store , line
+__label__bakery , macaroons
+__label__pharmacy , pharmacology
+__label__bakery , pudding
+__label__beauty_salon , beard
+__label__book_store , caligraphy
+__label__book_store , dossier
+__label__veterinary_care , bang
+__label__department_store , cosmetics
+__label__department_store , bath
+__label__jewelry_store , take up
+__label__department_store , soft drink
+__label__jewelry_store , fast
+__label__furniture_store , director
+__label__veterinary_care , stupid
+__label__gas_station , combustion
+__label__bank , salary
+__label__department_store , paper toweling
+__label__furniture_store , bed
+__label__laundry , dyeing
+__label__book_store , crayon
+__label__department_store , afternoon tea
+__label__department_store , detergent
+__label__book_store , fiction
+__label__book_store , edition
+__label__electronics_store , filament
+__label__restaurant , eaten
+__label__book_store , sharpeners
+__label__gas_station , spirit
+__label__restaurant , grub
+__label__laundry , industry
+__label__veterinary_care , shetland sheepdog
+__label__restaurant , flat
+__label__book_store , fountain pen
+__label__furniture_store , moderate
+__label__electronics_store , calorimotor
+__label__department_store , sucres
+__label__hardware_store , documents
+__label__gas_station , tank wagon
+__label__book_store , sheets
+__label__clothing_store , vests
+__label__electronics_store , pear
+__label__electronics_store , multitude
+__label__bakery , bundt
+__label__cafe , omelets
+__label__bar , rock
+__label__department_store , gunge
+__label__clothing_store , bonnet
+__label__hardware_store , oxygen
+__label__furniture_store , nap
+__label__jewelry_store , potholder
+__label__florist , calla lily
+__label__book_store , pencraft
+__label__department_store , rice
+__label__restaurant , food
+__label__pharmacy , oncology
+__label__restaurant , buffett
+__label__jewelry_store , collar
+__label__department_store , honey
+__label__hardware_store , ways
+__label__bar , bow out
+__label__clothing_store , complaint
+__label__furniture_store , headquarters
+__label__clothing_store , claim
+__label__cafe , steak
+__label__department_store , lotion
+__label__electronics_store , inverter
+__label__furniture_store , president
+__label__bar , corn liquor
+__label__department_store , antiseborrheic
+__label__cafe , club sandwich
+__label__shoe_store , stubs
+__label__hardware_store , mantel
+__label__jewelry_store , citrine
+__label__bar , mug
+__label__gas_station , turps
+__label__department_store , hon
+__label__bar , hard liquor
+__label__department_store , dulcite
+__label__furniture_store , have intercourse
+__label__laundry , lathering
+__label__bakery , meatballs
+__label__bar , whisky
+__label__department_store , iced coffee
+__label__hardware_store , channels
+__label__cafe , burrito
+__label__department_store , decaf
+__label__restaurant , dine
+__label__shoe_store , jeans
+__label__florist , sunflowers
+__label__hardware_store , bottle
+__label__department_store , seminose
+__label__electronics_store , candle
+__label__department_store , circuits
+__label__book_store , crayola
+__label__shoe_store , pjs
+__label__furniture_store , meat
+__label__hardware_store , avenues
+__label__hardware_store , handset
+__label__electronics_store , volt
+__label__book_store , pulp
+__label__department_store , starbucks
+__label__department_store , pussycat
+__label__grocery_or_supermarket , tomatoes
+__label__bakery , fish cake
+__label__bank , pecuniary
+__label__book_store , eraser
+__label__jewelry_store , stiffened
+__label__bar , weissbier
+__label__pharmacy , materia medica
+__label__cafe , mouthful
+__label__clothing_store , apparel
+__label__department_store , barm
+__label__jewelry_store , runway
+__label__bank , budget
+__label__bar , flavour
+__label__atm , spot
+__label__shoe_store , wellingtons
+__label__department_store , sip
+__label__beauty_salon , capillature
+__label__department_store , cereals
+__label__department_store , black tea
+__label__grocery_or_supermarket , watermelons
+__label__clothing_store , habits
+__label__clothing_store , fur coat
+__label__book_store , masking tape
+__label__restaurant , sandwich
+__label__cafe , sanka
+__label__bar , coffin
+__label__bakery , marshmallow fluff
+__label__jewelry_store , tailed
+__label__book_store , guidebook
+__label__book_store , inkpad
+__label__jewelry_store , art exhibition
+__label__clothing_store , dresses
+__label__grocery_or_supermarket , veggies
+__label__bakery , digestive biscuit
+__label__department_store , darling
+__label__veterinary_care , boy
+__label__book_store , sharpener
+__label__jewelry_store , briolette
+__label__bakery , cinch
+__label__furniture_store , lit
+__label__jewelry_store , clamp
+__label__bar , bowl
+__label__restaurant , buffet
+__label__electronics_store , batt
+__label__department_store , beans
+__label__furniture_store , govern
+__label__clothing_store , fatigues
+__label__atm , redemption
+__label__department_store , sections
+__label__pharmacy , polychrest
+__label__department_store , soaps
+__label__veterinary_care , toy
+__label__electronics_store , scale leaf
+__label__furniture_store , bedhead
+__label__restaurant , roast beef
+__label__department_store , coffeepot
+__label__florist , blossoms
+__label__electronics_store , accumulator
+__label__hardware_store , resources
+__label__pharmacy , pediatrics
+__label__department_store , production
+__label__hardware_store , toolkits
+__label__bakery , danish
+__label__jewelry_store , bead
+__label__cafe , bin
+__label__laundry , plant
+__label__bar , alcoholics
+__label__restaurant , chow
+__label__bar , waite
+__label__shoe_store , footwear
+__label__department_store , gasoline
+__label__department_store , skincare
+__label__hardware_store , bulb
+__label__furniture_store , recliner
+__label__hardware_store , dump
+__label__furniture_store , member
+__label__department_store , soaproot
+__label__book_store , text
+__label__bar , dronkelewe
+__label__furniture_store , mattress
+__label__jewelry_store , peal
+__label__book_store , literature
+__label__restaurant , lunchbox
+__label__grocery_or_supermarket , broccoli
+__label__cafe , black tea
+__label__florist , bouquets
+__label__electronics_store , picovolt
+__label__jewelry_store , bypass
+__label__gas_station , oil
+__label__department_store , break off
+__label__shoe_store , wellington boots
+__label__electronics_store , bract
+__label__gas_station , carbureted
+__label__furniture_store , reception
+__label__department_store , tea wagon
+__label__furniture_store , hospitality
+__label__furniture_store , chairmanship
+__label__bakery , pumpkin pie
+__label__jewelry_store , pendeloque
+__label__grocery_or_supermarket , sapodilla
+__label__department_store , flakes
+__label__book_store , newspaper publisher
+__label__clothing_store , frocks
+__label__bar , bourbon
+__label__book_store , letter
+__label__gas_station , hybrids
+__label__electronics_store , electrolyte
+__label__florist , pansies
+__label__clothing_store , togs
+__label__clothing_store , case
+__label__bakery , sponge cake
+__label__department_store , decaf
+__label__cafe , deli
+__label__clothing_store , saris
+__label__bakery , burger
+__label__department_store , jasmine
+__label__bakery , cream cheese
+__label__restaurant , repast
+__label__furniture_store , credenza
+__label__hardware_store , lead
+__label__gas_station , filling
+__label__laundry , dishwashing machine
+__label__gas_station , internal combustion
+__label__hardware_store , flute
+__label__department_store , oil color
+__label__laundry , soiled
+__label__pharmacy , prescription
+__label__jewelry_store , jewelery
+__label__bank , scratch
+__label__grocery_or_supermarket , pineapple guava
+__label__gas_station , engine
+__label__beauty_salon , hairline
+__label__bar , cowell
+__label__hardware_store , puppet
+__label__jewelry_store , commendation
+__label__department_store , toilet water
+__label__furniture_store , armchair
+__label__furniture_store , nightie
+__label__laundry , laver
+__label__department_store , hippocras
+__label__furniture_store , worktable
+__label__jewelry_store , amulet
+__label__clothing_store , spacesuit
+__label__grocery_or_supermarket , kwo
+__label__bakery , crepe
+__label__department_store , cif
+__label__bakery , cheese
+__label__gas_station , coal
+__label__florist , marigolds
+__label__bar , agger
+__label__cafe , pizza
+__label__department_store , cleanser
+__label__electronics_store , colchicum
+__label__department_store , infusion
+__label__book_store , publication
+__label__cafe , hamburger
+__label__book_store , carte
+__label__clothing_store , underclothing
+__label__furniture_store , highchair
+__label__clothing_store , wardrobe
+__label__cafe , caesar salad
+__label__clothing_store , jeans
+__label__book_store , cahier
+__label__jewelry_store , birthstone
+__label__florist , lilacs
+__label__shoe_store , soles
+__label__beauty_salon , cutback
+__label__bank , laundering
+__label__florist , rose
+__label__department_store , bleach
+__label__grocery_or_supermarket , figs
+__label__clothing_store , blend
+__label__gas_station , fuel
+__label__department_store , crumpets
+__label__veterinary_care , dog
+__label__restaurant , food
+__label__furniture_store , bathtub
+__label__hardware_store , calculators
+__label__book_store , cursive script
+__label__hardware_store , kit
+__label__jewelry_store , circle
+__label__atm , bar
+__label__book_store , notes
+__label__bar , aletaster
+__label__clothing_store , nightclothes
+__label__jewelry_store , gas station
+__label__jewelry_store , doily
+__label__jewelry_store , call
+__label__laundry , utensils
+__label__department_store , hyson
+__label__department_store , fleck
+__label__restaurant , sandwiches
+__label__bakery , claw
+__label__department_store , browns
+__label__florist , poinsettias
+__label__florist , zinnias
+__label__jewelry_store , frock
+__label__jewelry_store , bauble
+__label__bar , liquor
+__label__clothing_store , children
+__label__florist , coneflowers
+__label__hardware_store , hole
+__label__electronics_store , electrolier
+__label__jewelry_store , rock
+__label__jewelry_store , segment
+__label__gas_station , urea
+__label__grocery_or_supermarket , kiwi fruit
+__label__hardware_store , pawns
+__label__department_store , bugs
+__label__department_store , tea break
+__label__jewelry_store , sterling silver
+__label__department_store , kofi
+__label__furniture_store , footstool
+__label__hardware_store , tubes
+__label__hardware_store , filler
+__label__atm , flow
+__label__department_store , mouthwashes
+__label__electronics_store , electric battery
+__label__department_store , gasfield
+__label__beauty_salon , thumb
+__label__furniture_store , bookcase
+__label__department_store , remnants
+__label__furniture_store , sofa
+__label__jewelry_store , echo
+__label__laundry , mopping
+__label__furniture_store , siege
+__label__cafe , pattie
+__label__restaurant , barbecue
+__label__department_store , lardy cake
+__label__florist , liatris
+__label__clothing_store , overcoat
+__label__laundry , washing
+__label__bank , expensive
+__label__department_store , lotion
+__label__bank , resource
+__label__department_store , niki
+__label__department_store , shavings
+__label__bar , hold up
+__label__electronics_store , overvoltage
+__label__department_store , funnel
+__label__cafe , tuna salad
+__label__department_store , lump
+__label__gas_station , cetane number
+__label__clothing_store , leggings
+__label__furniture_store , head
+__label__book_store , item
+__label__bakery , biscuit
+__label__bakery , crumb cake
+__label__electronics_store , voltaic battery
+__label__clothing_store , adaptation
+__label__jewelry_store , ornamental
+__label__gas_station , petrol
+__label__bakery , shortbread
+__label__pharmacy , physiatrics
+__label__hardware_store , silo
+__label__book_store , newspaper
+__label__shoe_store , push-ups
+__label__electronics_store , saucer magnolia
+__label__department_store , nafta
+__label__hardware_store , wagon
+__label__department_store , loofa
+__label__department_store , orangeade
+__label__hardware_store , control
+__label__book_store , abacus
+__label__cafe , frappuccino
+__label__department_store , petro
+__label__department_store , corn syrup
+__label__book_store , bullpen
+__label__department_store , cha
+__label__department_store , energy
+__label__furniture_store , straight chair
+__label__veterinary_care , turtle
+__label__jewelry_store , bauble
+__label__shoe_store , clogs
+__label__book_store , reserve
+__label__book_store , sewing kit
+__label__department_store , baby
+__label__book_store , synopsis
+__label__bank , booty
+__label__grocery_or_supermarket , outcomes
+__label__cafe , turkish coffee
+__label__cafe , bun
+__label__furniture_store , impertinence
+__label__bakery , baking
+__label__veterinary_care , deary
+__label__bakery , cooks
+__label__bar , grog
+__label__department_store , 21
+__label__bank , cost
+__label__atm , ticket
+__label__clothing_store , beseem
+__label__hardware_store , plumbing
+__label__department_store , washables
+__label__pharmacy , vial
+__label__bank , wealth
+__label__bakery , chocolate
+__label__cafe , bagels
+__label__jewelry_store , cocktail dress
+__label__hardware_store , drilling
+__label__pharmacy , drugs
+__label__department_store , aloe vera
+__label__hardware_store , pipefitting
+__label__jewelry_store , jewel
+__label__jewelry_store , poinsettia
+__label__jewelry_store , locket
+__label__bakery , focaccia
+__label__beauty_salon , logging
+__label__department_store , rosie
+__label__jewelry_store , sterling silver
+__label__cafe , pita
+__label__electronics_store , cfl
+__label__hardware_store , water
+__label__jewelry_store , neckpiece
+__label__bar , pir
+__label__restaurant , meal
+__label__pharmacy , health
+__label__beauty_salon , baldness
+__label__book_store , scrapbook
+__label__hardware_store , technologies
+__label__florist , mandevilla
+__label__hardware_store , tobacco pipe
+__label__department_store , isopropyl alcohol
+__label__furniture_store , presidency
+__label__gas_station , diesel fuel
+__label__clothing_store , suite
+__label__florist , cyclamen
+__label__veterinary_care , animals
+__label__department_store , muscovado
+__label__jewelry_store , jewel
+__label__department_store , isodulcite
+__label__clothing_store , issue
+__label__hardware_store , shell
+__label__department_store , hair spray
+__label__bar , ethyl alcohol
+__label__jewelry_store , drive away
+__label__bar , liquor
+__label__book_store , cookbook
+__label__hardware_store , sleeve
+__label__electronics_store , lamp
+__label__department_store , cane
+__label__clothing_store , jogging
+__label__florist , cymbidiums
+__label__furniture_store , ottoman
+__label__clothing_store , held
+__label__bar , brewskis
+__label__bar , roll on
+__label__hardware_store , tube
+__label__gas_station , liter
+__label__laundry , store
+__label__jewelry_store , shawl
+__label__book_store , grease pencil
+__label__atm , position
+__label__pharmacy , biomedicine
+__label__clothing_store , pajamas
+__label__bar , drink
+__label__jewelry_store , finger
+__label__department_store , fresheners
+__label__jewelry_store , headdress
+__label__gas_station , radial engine
+__label__book_store , nib
+__label__cafe , restaurant
+__label__hardware_store , arrangements
+__label__florist , nosegay
+__label__restaurant , nosh
+__label__jewelry_store , phone
+__label__electronics_store , trickle charger
+__label__jewelry_store , stained glass
+__label__veterinary_care , cabbage
+__label__book_store , registry
+__label__book_store , writer
+__label__restaurant , barbeque
+__label__electronics_store , rootbound
+__label__clothing_store , suitable
+__label__furniture_store , chairperson
+__label__furniture_store , banquette
+__label__bar , car park
+__label__bar , butyl alcohol
+__label__clothing_store , tux
+__label__jewelry_store , scotch pine
+__label__hardware_store , implements
+__label__hardware_store , shriek
+__label__atm , annuity
+__label__department_store , microarrays
+__label__department_store , granules
+__label__department_store , tanker
+__label__electronics_store , streetlamp
+__label__electronics_store , cordless
+__label__bar , drug of abuse
+__label__jewelry_store , ornaments
+__label__restaurant , drinks
+__label__jewelry_store , hamptons
+__label__gas_station , jatropha
+__label__department_store , atf
+__label__bar , city centre
+__label__pharmacy , health professional
+__label__gas_station , unleaded gasoline
+__label__restaurant , potluck
+__label__jewelry_store , adorningly
+__label__atm , carton
+__label__furniture_store , feather
+__label__department_store , grease
+__label__department_store , mulled cider
+__label__gas_station , diesel
+__label__cafe , coffee berry
+__label__furniture_store , praesidium
+__label__department_store , cut off
+__label__bar , libations
+__label__bakery , pastry cream
+__label__florist , tulips
+__label__atm , income
+__label__department_store , demerara
+__label__clothing_store , vest
+__label__furniture_store , faldstool
+__label__hardware_store , cabin
+__label__department_store , snack
+__label__gas_station , sulphur
+__label__bakery , strudel
+__label__department_store , cremes
+__label__department_store , babe
+__label__bank , wealthy
+__label__department_store , scales
+__label__department_store , ilo
+__label__clothing_store , armor
+__label__cafe , cofee
+__label__bakery , tiramisu
+__label__department_store , soursop
+__label__book_store , handwriting
+__label__department_store , java
+__label__book_store , prison
+__label__bank , amount
+__label__department_store , saratoga chip
+__label__department_store , immersed
+__label__gas_station , ethanol
+__label__cafe , bean
+__label__department_store , bribe
+__label__department_store , bathroom cleaner
+__label__laundry , swabbing
+__label__bar , microbrew
+__label__hardware_store , barrel
+__label__book_store , theoretical
+__label__gas_station , natural gas
+__label__electronics_store , blister
+__label__gas_station , oil-fired
+__label__restaurant , veal parmesan
+__label__beauty_salon , hairstyle
+__label__hardware_store , chariot
+__label__book_store , libretto
+__label__book_store , impen
+__label__restaurant , cordon bleu
+__label__department_store , rinsing
+__label__department_store , elemis
+__label__furniture_store , toast
+__label__pharmacy , closet
+__label__department_store , cafeteria
+__label__department_store , tea caddy
+__label__pharmacy , coroner
+__label__furniture_store , dna
+__label__jewelry_store , slip up
+__label__restaurant , veal parmigiana
+__label__book_store , file
+__label__department_store , castile soap
+__label__beauty_salon , ducktail
+__label__bakery , sponge cake
+__label__restaurant , chicken casserole
+__label__furniture_store , bedside
+__label__bar , spirit
+__label__furniture_store , rack
+__label__furniture_store , bedcover
+__label__hardware_store , beaker
+__label__jewelry_store , stamp
+__label__pharmacy , anesthesiology
+__label__book_store , book
+__label__beauty_salon , jeans
+__label__hardware_store , hookah
+__label__grocery_or_supermarket , persimmons
+__label__restaurant , table
+__label__book_store , sketchbook
+__label__bar , coffee table
+__label__electronics_store , recharger
+__label__gas_station , electric
+__label__department_store , molasses
+__label__jewelry_store , trinket
+__label__restaurant , appetizers
+__label__book_store , paddock
+__label__cafe , crepes
+__label__bakery , pizzelle
+__label__grocery_or_supermarket , foods
+__label__jewelry_store , robe
+__label__furniture_store , diaper
+__label__florist , statice
+__label__furniture_store , sleep with
+__label__veterinary_care , hat
+__label__department_store , doll
+__label__cafe , lunch meat
+__label__book_store , record
+__label__department_store , benzine
+__label__gas_station , litre
+__label__clothing_store , pants
+__label__electronics_store , bulbule
+__label__bank , popcorn
+__label__book_store , sheet
+__label__book_store , penrack
+__label__department_store , illy
+__label__hardware_store , module
+__label__shoe_store , insoles
+__label__electronics_store , charger
+__label__department_store , orange juice
+__label__jewelry_store , bangle
+__label__department_store , brew
+__label__book_store , penitentiary
+__label__shoe_store , zapata
+__label__department_store , stakes
+__label__hardware_store , aids
+__label__book_store , sketchpad
+__label__department_store , gland
+__label__laundry , shovelling
+__label__gas_station , fossil fuel
+__label__hardware_store , software
+__label__pharmacy , complementary medicine
+__label__florist , hydrangeas
+__label__beauty_salon , hairdresser
+__label__hardware_store , fuel
+__label__clothing_store , answer
+__label__book_store , quill
+__label__department_store , nanometer
+__label__cafe , croissant
+__label__furniture_store , sleeping
+__label__jewelry_store , chandelier
+__label__florist , daffodils
+__label__clothing_store , costumes
+__label__bar , ethyl
+__label__bar , halliwell
+__label__book_store , manilla
+__label__department_store , disinfectant
+__label__book_store , marker
+__label__bar , ebriosity
+__label__book_store , sellotape
+__label__shoe_store , brogues
+__label__jewelry_store , gemstone
+__label__hardware_store , pieces
+__label__bank , gravy
+__label__shoe_store , undies
+__label__department_store , lather
+__label__beauty_salon , sideburns
+__label__restaurant , sup
+__label__bakery , crust
+__label__department_store , unaware
+__label__book_store , playpen
+__label__gas_station , cylinder
+__label__furniture_store , cama
+__label__furniture_store , upholster
+__label__shoe_store , shoes
+__label__grocery_or_supermarket , guo
+__label__atm , monetary
+__label__jewelry_store , henman
+__label__bar , amphetamines
+__label__veterinary_care , lhasa apso
+__label__atm , metallic
+__label__clothing_store , duds
+__label__electronics_store , easter lily
+__label__book_store , comma
+__label__cafe , beer
+__label__jewelry_store , corona
+__label__bakery , baklava
+__label__bakery , lemon meringue pie
+__label__shoe_store , irons
+__label__veterinary_care , fdg
+__label__jewelry_store , heterocyclic
+__label__restaurant , potluck dinner
+__label__electronics_store , medulla oblongata
+__label__beauty_salon , felling
+__label__pharmacy , medicinal drug
+__label__department_store , soap
+__label__beauty_salon , discount
+__label__grocery_or_supermarket , yield
+__label__jewelry_store , wristlet
+__label__bar , pint
+__label__hardware_store , gwen
+__label__cafe , plantation
+__label__restaurant , veal parmesan
+__label__bakery , frittata
+__label__pharmacy , healer
+__label__clothing_store , clones
+__label__cafe , hoagie
+__label__veterinary_care , plaything
+__label__jewelry_store , tax bill
+__label__bar , hofmann
+__label__gas_station , shandy
+__label__furniture_store , wheelchair
+__label__bar , bibacious
+__label__department_store , arrays
+__label__furniture_store , armchair
+__label__book_store , lightweight
+__label__jewelry_store , patch
+__label__bar , liquors
+__label__gas_station , carpark
+__label__clothing_store , chemises
+__label__shoe_store , snowshoes
+__label__jewelry_store , chime
+__label__jewelry_store , get together
+__label__beauty_salon , hat
+__label__jewelry_store , embellish
+__label__hardware_store , toolset
+__label__department_store , chess pie
+__label__pharmacy , syrup
+__label__jewelry_store , splash out
+__label__shoe_store , soulier
+__label__bar , tequila
+__label__jewelry_store , pomander
+__label__department_store , cuppa
+__label__department_store , counters
+__label__restaurant , afternoon
+__label__jewelry_store , doll
+__label__clothing_store , attire
+__label__jewelry_store , slices
+__label__department_store , liquid soap
+__label__book_store , ink bottle
+__label__clothing_store , inflatable
+__label__gas_station , essence
+__label__bakery , birthday cake
+__label__restaurant , tonight
+__label__gas_station , engines
+__label__bar , roll back
+__label__electronics_store , stacks
+__label__jewelry_store , neck
+__label__department_store , sugarcane
+__label__department_store , mellitic
+__label__bar , turn down
+__label__bar , spruce beer
+__label__electronics_store , enemy
+__label__department_store , herbal tea
+__label__book_store , directory
+__label__beauty_salon , hairdressing
+__label__department_store , olive
+__label__department_store , decaffeinated coffee
+__label__bar , hot weather
+__label__florist , heyday
+__label__department_store , coffee
+__label__department_store , refined sugar
+__label__jewelry_store , collette
+__label__veterinary_care , bird
+__label__jewelry_store , snowman
+__label__hardware_store , bear
+__label__laundry , lavation
+__label__electronics_store , electrolytic capacitor
+__label__bar , man
+__label__pharmacy , medecine
+__label__cafe , ice cream
+__label__jewelry_store , blouse
+__label__cafe , roll
+__label__atm , financial
+__label__gas_station , sedans
+__label__department_store , bar
+__label__department_store , washcloth
+__label__florist , crotons
+__label__hardware_store , average
+__label__veterinary_care , favored
+__label__department_store , coated
+__label__bar , henman
+__label__gas_station , trishaw
+__label__department_store , moisturizer
+__label__book_store , ballpoint
+__label__laundry , toothbrushing
+__label__book_store , lead
+__label__bakery , christmas cake
+__label__book_store , quill pen
+__label__furniture_store , master bedroom
+__label__furniture_store , professorship
+__label__clothing_store , cases
+__label__laundry , degrease
+__label__cafe , chicken salad
+__label__clothing_store , petition
+__label__shoe_store , crt
+__label__electronics_store , fluorescent lamp
+__label__clothing_store , claws
+__label__hardware_store , cart
+__label__bar , malt whiskey
+__label__clothing_store , gowns
+__label__furniture_store , perfect
+__label__bank , contributions
+__label__laundry , shower
+__label__book_store , scripture
+__label__department_store , biscotin
+__label__department_store , genus camellia
+__label__book_store , stylus
+__label__department_store , oilmen
+__label__atm , liquidate
+__label__florist , wreathes
+__label__clothing_store , nighties
+__label__bakery , confiture
+__label__book_store , written
+__label__book_store , articles
+__label__jewelry_store , crash out
+__label__veterinary_care , positron
+__label__electronics_store , electric motor
+__label__department_store , tong
+__label__pharmacy , pharmaceuticals
+__label__florist , plumeria
+__label__bar , turn out
+__label__shoe_store , wellies
+__label__book_store , jail
+__label__restaurant , remainder
+__label__atm , fonds
+__label__grocery_or_supermarket , citrus fruit
+__label__book_store , documentation
+__label__book_store , protractor
+__label__furniture_store , pillow
+__label__cafe , beef patty
+__label__bakery , coconut cake
+__label__book_store , volume
+__label__restaurant , dropmeal
+__label__furniture_store , bag
+__label__book_store , bible
+__label__restaurant , fundraiser
+__label__beauty_salon , mullet
+__label__grocery_or_supermarket , nectarines
+__label__gas_station , trucks
+__label__bar , bitter
+__label__hardware_store , pump
+__label__restaurant , dessert
+__label__book_store , penlight
+__label__grocery_or_supermarket , pomelos
+__label__bar , cider
+__label__book_store , quill pen
+__label__department_store , diabetes
+__label__bakery , creme caramel
+__label__bank , recycle
+__label__jewelry_store , sprocket
+__label__electronics_store , shipper
+__label__department_store , unoil
+__label__electronics_store , shelling
+__label__hardware_store , utilities
+__label__bar , foam
+__label__department_store , sarsaparilla
+__label__beauty_salon , snip
+__label__beauty_salon , ponytail
+__label__furniture_store , have it away
+__label__clothing_store , undies
+__label__pharmacy , medical
+__label__department_store , vinegar
+__label__book_store , anthology
+__label__furniture_store , get laid
+__label__hardware_store , pond
+__label__jewelry_store , schmuck
+__label__department_store , fluid
+__label__bar , proof spirit
+__label__department_store , woodchips
+__label__pharmacy , technicians
+__label__jewelry_store , silverplate
+__label__department_store , arabica
+__label__bar , lightweight
+__label__clothing_store , shirt
+__label__atm , hay
+__label__restaurant , eating
+__label__hardware_store , conduct
+__label__hardware_store , depot
+__label__clothing_store , apparel
+__label__department_store , suds
+__label__shoe_store , tights
+__label__jewelry_store , oval
+__label__cafe , french bread
+__label__book_store , stuff
+__label__jewelry_store , rhinestone
+__label__clothing_store , affairs
+__label__bar , drink
+__label__laundry , prepress
+__label__shoe_store , booties
+__label__book_store , manual
+__label__hardware_store , vehicle
+__label__hardware_store , methodologies
+__label__veterinary_care , ornamental
+__label__department_store , loofa
+__label__furniture_store , linen
+__label__department_store , camellia sinensis
+__label__book_store , wallet
+__label__cafe , barista
+__label__laundry , clothes
+__label__department_store , joe
+__label__restaurant , entrees
+__label__department_store , booklets
+__label__bakery , meal
+__label__bank , muni
+__label__florist , lillies
+__label__shoe_store , pajamas
+__label__department_store , bath oil
+__label__beauty_salon , quiff
+__label__bakery , marc
+__label__department_store , ginger
+__label__restaurant , pocket
+__label__department_store , bin
+__label__cafe , quesadilla
+__label__veterinary_care , peeves
+__label__gas_station , paraffinic
+__label__furniture_store , kip
+__label__cafe , capuccino
+__label__veterinary_care , spit
+__label__pharmacy , forensic
+__label__bank , coin
+__label__atm , merchant
+__label__grocery_or_supermarket , nuts
+__label__veterinary_care , pocket
+__label__jewelry_store , bangles
+__label__clothing_store , woollens
+__label__hardware_store , funnels
+__label__atm , flows
+__label__department_store , hug
+__label__gas_station , yau
+__label__jewelry_store , necklace
+__label__department_store , washing powder
+__label__book_store , birds
+__label__bank , financial
+__label__bank , lucre
+__label__department_store , lipstick
+__label__hardware_store , carriers
+__label__book_store , hardcopy
+__label__beauty_salon , shame
+__label__bar , pivo
+__label__book_store , stationery
+__label__jewelry_store , wreathes
+__label__bakery , pancakes
+__label__bakery , marzipan
+__label__furniture_store , fund
+__label__book_store , potholder
+__label__clothing_store , wearing apparel
+__label__beauty_salon , cutter
+__label__cafe , sip
+__label__veterinary_care , spectator
+__label__veterinary_care , pet
+__label__electronics_store , smart
+__label__book_store , brochure
+__label__book_store , instruments
+__label__department_store , colloidal gel
+__label__jewelry_store , opaque gem
+__label__book_store , herbarium
+__label__florist , flush
+__label__electronics_store , clever
+__label__jewelry_store , coral necklace
+__label__department_store , beer
+__label__jewelry_store , knock
+__label__department_store , conditioner
+__label__cafe , cheese
+__label__grocery_or_supermarket , plums
+__label__department_store , biscotti
+__label__department_store , syrup
+__label__department_store , hairspray
+__label__hardware_store , cylinder
+__label__hardware_store , cage
+__label__gas_station , haulage
+__label__furniture_store , swivel chair
+__label__atm , laundering
+__label__department_store , coffee shop
+__label__electronics_store , oxalis
+__label__department_store , haircare
+__label__book_store , quill
+__label__gas_station , substance
+__label__department_store , drunkenness
+__label__bank , ransom
+__label__gas_station , gasohol
+__label__bar , label
+__label__department_store , kerosene
+__label__clothing_store , belongings
+__label__cafe , ravioli
+__label__hardware_store , channeling
+__label__book_store , upa
+__label__jewelry_store , equaliser
+__label__jewelry_store , favours
+__label__furniture_store , throw pillow
+__label__book_store , screwdriver
+__label__department_store , pol
+__label__clothing_store , cause
+__label__beauty_salon , fauxhawk
+__label__cafe , chalupa
+__label__jewelry_store , earring
+__label__book_store , cartridge pen
+__label__laundry , rinsing
+__label__restaurant , thanksgiving
+__label__department_store , iatraliptic
+__label__atm , deposition
+__label__laundry , manufacturing
+__label__jewelry_store , tree
+__label__department_store , lea
+__label__furniture_store , lounger
+__label__jewelry_store , brooches
+__label__gas_station , rego
+__label__florist , petals
+__label__cafe , salisbury steak
+__label__furniture_store , have a go at it
+__label__furniture_store , stool
+__label__department_store , coffee tree
+__label__bakery , gruyere cheese
+__label__department_store , washables
+__label__electronics_store , cell
+__label__gas_station , excise
+__label__department_store , jaggery
+__label__department_store , rape oil
+__label__beauty_salon , coiffure
+__label__bank , grubbing
+__label__gas_station , kerosine
+__label__department_store , oilfield
+__label__florist , chrysanthemums
+__label__clothing_store , lingerie
+__label__bank , income
+__label__jewelry_store , trophy
+__label__beauty_salon , stumpage
+__label__department_store , astringents
+__label__book_store , sketch pad
+__label__grocery_or_supermarket , berries
+__label__restaurant , oncology
+__label__pharmacy , dentistry
+__label__book_store , leaf
+__label__cafe , diner
+__label__furniture_store , caning
+__label__department_store , barrel
+__label__clothing_store , dressing
+__label__department_store , baking soda
+__label__cafe , club
+__label__jewelry_store , brooch
+__label__grocery_or_supermarket , kumquats
+__label__book_store , dictionary
+__label__hardware_store , jug
+__label__book_store , registrar
+__label__jewelry_store , kick in
+__label__bakery , candy
+__label__veterinary_care , great dane
+__label__jewelry_store , split up
+__label__jewelry_store , watchband
+__label__bar , stuff
+__label__department_store , toilet powder
+__label__jewelry_store , tone
+__label__hardware_store , capsule
+__label__restaurant , scrambled eggs
+__label__department_store , utensils
+__label__clothing_store , underthings
+__label__department_store , micro chip
+__label__florist , greenery
+__label__clothing_store , trials
+__label__clothing_store , fashions
+__label__shoe_store , liners
+__label__department_store , mulled cider
+__label__department_store , animal oil
+__label__jewelry_store , high street
+__label__pharmacy , potion
+__label__restaurant , canteen
+__label__book_store , fountain
+__label__bar , slip up
+__label__bar , methamphetamine
+__label__furniture_store , hammock
+__label__hardware_store , trough
+__label__electronics_store , incandescent lamp
+__label__atm , receipts
+__label__bakery , greaseproof paper
+__label__book_store , chalkboard
+__label__bakery , custard
+__label__department_store , scrap
+__label__hardware_store , casing
+__label__hardware_store , instrumentalities
+__label__shoe_store , knickers
+__label__bank , contribution
+__label__furniture_store , read
+__label__pharmacy , medical science
+__label__cafe , chai
+__label__furniture_store , subway
+__label__department_store , tea cart
+__label__clothing_store , clothing
+__label__bakery , cheesecake
+__label__bar , coffins
+__label__beauty_salon , shaves
+__label__department_store , castor sugar
+__label__electronics_store , electrical device
+__label__furniture_store , crystal
+__label__hardware_store , cache
+__label__jewelry_store , adorn
+__label__department_store , biochips
+__label__laundry , business
+__label__electronics_store , bulbel
+__label__hardware_store , bucket
+__label__cafe , coffee shop
+__label__hardware_store , armoured
+__label__department_store , kopi
+__label__department_store , aet
+__label__restaurant , steak
+__label__bar , alcoholize
+__label__hardware_store , screech
+__label__furniture_store , lightning
+__label__restaurant , prize
+__label__bank , money
+__label__cafe , fajitas
+__label__jewelry_store , millefiori
+__label__hardware_store , channel
+__label__bakery , frosting
+__label__jewelry_store , wreath
+__label__furniture_store , ottoman
+__label__atm , effect
+__label__jewelry_store , jardiniere
+__label__department_store , soapless
+__label__restaurant , sloppy joe
+__label__electronics_store , autonomy
+__label__gas_station , lubricants
+__label__hardware_store , store
+__label__furniture_store , settee
+__label__hardware_store , bong
+__label__cafe , sourdough bread
+__label__pharmacy , pharmacy
+__label__furniture_store , recliner
+__label__department_store , dishwashing detergent
+__label__department_store , tots
+__label__department_store , beet sugar
+__label__bar , hooch
+__label__department_store , lip balm
+__label__department_store , series
+__label__veterinary_care , french bulldog
+__label__clothing_store , request
+__label__gas_station , electrics
+__label__jewelry_store , beautify
+__label__hardware_store , device
+__label__clothing_store , plainclothes
+__label__book_store , card
+__label__book_store , whiteboard
+__label__cafe , decaffeinated coffee
+__label__bakery , cupcake
+__label__bar , green tea
+__label__department_store , nail polish
+__label__atm , numbering
+__label__laundry , institute
+__label__furniture_store , livingroom
+__label__gas_station , gasolene
+__label__bakery , chocolate truffle
+__label__shoe_store , handbags
+__label__jewelry_store , precious stone
+__label__furniture_store , tent
+__label__furniture_store , dining room
+__label__furniture_store , presidents
+__label__florist , plants
+__label__department_store , cup
+__label__department_store , transistors
+__label__furniture_store , litter
+__label__electronics_store , recharging
+__label__beauty_salon , timber
+__label__department_store , cane sugar
+__label__department_store , chips
+__label__jewelry_store , florida
+__label__furniture_store , wick
+__label__clothing_store , woolens
+__label__jewelry_store , towel
+__label__veterinary_care , preferred
+__label__furniture_store , presides
+__label__bakery , cookie
+__label__book_store , pinking shears
+__label__department_store , nail enamel
+__label__department_store , drilling
+__label__bar , alcoholic
+__label__laundry , cleanser
+__label__bakery , frosting
+__label__florist , ornamental
+__label__restaurant , refreshment
+__label__bank , fortune
+__label__bakery , shortcake
+__label__book_store , typewriter
+__label__book_store , indite
+__label__bar , caffeine
+__label__bar , intoxicant
+__label__bar , bare
+__label__bank , loan
+__label__bakery , madeira cake
+__label__hardware_store , peter
+__label__bar , sicilian
+__label__atm , gearbox
+__label__pharmacy , iatrochemist
+__label__book_store , ballpoint pen
+__label__department_store , shampoo
+__label__furniture_store , homepage
+__label__department_store , caf
+__label__grocery_or_supermarket , prunes
+__label__cafe , salad bar
+__label__restaurant , soup
+__label__restaurant , dinners
+__label__atm , dollar
+__label__restaurant , footlocker
+__label__jewelry_store , trickment
+__label__furniture_store , wing chair
+__label__furniture_store , sack
+__label__jewelry_store , wheel
+__label__department_store , films
+__label__restaurant , cheeseburger
+__label__department_store , laundry detergent
+__label__veterinary_care , silly
+__label__bakery , baking
+__label__cafe , cuppa
+__label__bar , bourbon
+__label__furniture_store , screw
+__label__atm , ride
+__label__bar , gin
+__label__bar , yorke
+__label__bar , bir
+__label__bakery , ladyfingers
+__label__restaurant , snack
+__label__atm , finance
+__label__bakery , cottage pudding
+__label__veterinary_care , familiar
+__label__restaurant , dining
+__label__department_store , handwash
+__label__laundry , washer
+__label__hardware_store , heads-up
+__label__electronics_store , array
+__label__department_store , tampons
+__label__beauty_salon , trimming
+__label__department_store , saddle soap
+__label__hardware_store , functionality
+__label__pharmacy , medicinal
+__label__furniture_store , fireplace
+__label__furniture_store , dresser
+__label__book_store , list
+__label__bakery , applesauce cake
+__label__atm , caja
+__label__department_store , beet
+__label__jewelry_store , pendant
+__label__department_store , opodeldoc
+__label__book_store , bookshop
+__label__atm , immediate payment
+__label__bank , deposit
+__label__book_store , dissertation
+__label__laundry , plants
+__label__florist , amaranthus
+__label__gas_station , diesel motor
+__label__hardware_store , instruments
+__label__florist , wildflowers
+__label__jewelry_store , jewelry
+__label__gas_station , octane
+__label__book_store , sum
+__label__jewelry_store , mundil
+__label__hardware_store , scrapyard
+__label__veterinary_care , companion
+__label__department_store , guacamole
+__label__clothing_store , adjust
+__label__bar , beeregar
+__label__bar , winehouse
+__label__furniture_store , banquette
+__label__veterinary_care , kitty
+__label__grocery_or_supermarket , fruits
+__label__furniture_store , windsor chair
+__label__furniture_store , bed
+__label__laundry , pump
+__label__bar , alcohol
+__label__florist , annuals
+__label__department_store , baking soda
+__label__department_store , sukkar
+__label__grocery_or_supermarket , seafood
+__label__book_store , ballpoints
+__label__book_store , highlighter
+__label__laundry , puddling
+__label__jewelry_store , colour
+__label__bakery , porter
+__label__clothing_store , fit
+__label__department_store , soap flakes
+__label__atm , stream
+__label__clothing_store , fortune
+__label__clothing_store , proceedings
+__label__veterinary_care , cosset
+__label__book_store , survey
+__label__clothing_store , gladrags
+__label__shoe_store , pants
+__label__department_store , mellitus
+__label__pharmacy , drugstore
+__label__florist , flores
+__label__gas_station , hosepipe
+__label__department_store , decaffeinated coffee
+__label__cafe , bar
+__label__restaurant , tiffin
+__label__clothing_store , negligees
+__label__grocery_or_supermarket , orchards
+__label__electronics_store , battery
+__label__laundry , frizzing
+__label__jewelry_store , moonstones
+__label__cafe , pastrami
+__label__bar , nephalism
+__label__pharmacy , telemedicine
+__label__department_store , petroleum
+__label__department_store , invert sugar
+__label__clothing_store , woodworking
+__label__book_store , writer
+__label__book_store , stylograph
+__label__book_store , submission
+__label__cafe , tunaburger
+__label__hardware_store , props
+__label__veterinary_care , societal
+__label__laundry , dressing
+__label__electronics_store , shell
+__label__cafe , open sandwich
+__label__bar , mabby
+__label__hardware_store , pecker
+__label__department_store , cabbage
+__label__bakery , dessert
+__label__electronics_store , corm
+__label__restaurant , lunch
+__label__beauty_salon , haircut
+__label__book_store , log
+__label__laundry , clean
+__label__cafe , biscuit
+__label__book_store , papers
+__label__grocery_or_supermarket , chillies
+__label__department_store , yards
+__label__cafe , cooler
+__label__bar , six-pack
+__label__laundry , soaping
+__label__jewelry_store , cut price
+__label__grocery_or_supermarket , rambutan
+__label__department_store , toothpowder
+__label__department_store , sugar
+__label__department_store , curry
+__label__bar , malt
+__label__hardware_store , enablers
+__label__bakery , cakewalk
+__label__department_store , hydrocarbons
+__label__jewelry_store , annulus
+__label__hardware_store , fireplace
+__label__jewelry_store , resonance
+__label__furniture_store , helm
+__label__bar , beer
+__label__department_store , sugar cane
+__label__department_store , drip coffee
+__label__beauty_salon , pompadour
+__label__veterinary_care , honey
+__label__shoe_store , sandals
+__label__cafe , quiche lorraine
+__label__book_store , thesis
+__label__grocery_or_supermarket , jackfruit
+__label__department_store , cuppa
+__label__restaurant , reception
+__label__book_store , alternative
+__label__gas_station , avgas
+__label__electronics_store , bulk
+__label__furniture_store , sofa
+__label__electronics_store , nimh
+__label__furniture_store , camp bed
+__label__cafe , burger
+__label__restaurant , iftar
+__label__jewelry_store , bell
+__label__book_store , bills
+__label__department_store , tar
+__label__florist , perfumes
+__label__department_store , refiners
+__label__grocery_or_supermarket , accomplishments
+__label__department_store , gels
+__label__grocery_or_supermarket , tangerines
+__label__department_store , knap
+__label__book_store , grease pencil
+__label__veterinary_care , mascot
+__label__department_store , eyedrops
+__label__book_store , daybook
+__label__shoe_store , brogans
+__label__veterinary_care , livestock
+__label__beauty_salon , headwear
+__label__jewelry_store , rhinestones
+__label__grocery_or_supermarket , mangoes
+__label__department_store , ketoconazole
+__label__jewelry_store , steroid
+__label__book_store , guide
+__label__jewelry_store , artwork
+__label__atm , car
+__label__book_store , instrument
+__label__laundry , establishments
+__label__pharmacy , dermatology
+__label__bar , free house
+__label__electronics_store , battery charger
+__label__bakery , lemon curd
+__label__gas_station , mileage
+__label__restaurant , eating
+__label__electronics_store , notebook
+__label__jewelry_store , cardinal
+__label__grocery_or_supermarket , bananas
+__label__furniture_store , officiate
+__label__furniture_store , reads
+__label__restaurant , dish
+__label__electronics_store , capacitor
+__label__jewelry_store , call up
+__label__shoe_store , underclothes
+__label__clothing_store , procedure
+__label__beauty_salon , chop
+__label__jewelry_store , cycling
+__label__department_store , crack
+__label__atm , treasurer
+__label__atm , take
+__label__jewelry_store , loop
+__label__jewelry_store , close in
+__label__bar , schnapps
+__label__furniture_store , channel
+__label__department_store , liquid detergent
+__label__bakery , grated cheese
+__label__clothing_store , uniforms
+__label__jewelry_store , department store
+__label__bar , bier
+__label__beauty_salon , hair
+__label__jewelry_store , girdle
+__label__department_store , soaper
+__label__clothing_store , outfits
+__label__electronics_store , indicator
+__label__bakery , sourdough bread
+__label__gas_station , benzine
+__label__gas_station , pensioner
+__label__jewelry_store , insert
+__label__furniture_store , have it off
+__label__department_store , guar gum
+__label__furniture_store , chair
+__label__grocery_or_supermarket , concord grape
+__label__cafe , roasters
+__label__florist , frangipani
+__label__department_store , dentifrice
+__label__hardware_store , products
+__label__jewelry_store , bus lane
+__label__grocery_or_supermarket , serviceberries
+__label__gas_station , waragi
+__label__electronics_store , arc lamp
+__label__veterinary_care , small
+__label__bakery , bar
+__label__department_store , pennyroyal oil
+__label__beauty_salon , barber
+__label__bar , drinkers
+__label__pharmacy , meds
+__label__book_store , boyle
+__label__book_store , card
+__label__book_store , crayfish
+__label__shoe_store , trousers
+__label__department_store , bleach
+__label__bar , oil
+__label__book_store , blueprint
+__label__department_store , filling
+__label__hardware_store , pelvis
+__label__department_store , mocha
+__label__bar , alcoholometry
+__label__book_store , book of account
+__label__department_store , kitchen
+__label__department_store , asphalt
+__label__laundry , handwashing
+__label__cafe , coffeemaker
+__label__veterinary_care , basset hound
+__label__atm , fluidity
+__label__furniture_store , moderator
+__label__hardware_store , stack
+__label__gas_station , liquefied petroleum gas
+__label__beauty_salon , cornrows
+__label__jewelry_store , tiara
+__label__grocery_or_supermarket , carambola
+__label__department_store , pumpkin
+__label__jewelry_store , jewelry store
+__label__furniture_store , lead
+__label__department_store , bit
+__label__bakery , bun
+__label__hardware_store , idiots
+__label__hardware_store , tank
+__label__restaurant , fish fry
+__label__cafe , kofi
+__label__cafe , banana
+__label__cafe , hero
+__label__bakery , biscotti
+__label__book_store , workbook
+__label__hardware_store , elements
+__label__jewelry_store , bust up
+__label__department_store , digestive biscuit
+__label__jewelry_store , stickpin
+__label__department_store , cerealin
+__label__veterinary_care , dearie
+__label__department_store , cinnamon
+__label__bar , cutty
+__label__laundry , loofa
+__label__restaurant , repast
+__label__furniture_store , swivel chair
+__label__cafe , multi-level
+__label__beauty_salon , downgrade
+__label__restaurant , potluck
+__label__hardware_store , hoses
+__label__department_store , place
+__label__department_store , shai
+__label__department_store , oil
+__label__department_store , categories
+__label__furniture_store , lying
+__label__bar , alcoholometric
+__label__veterinary_care , poof
+__label__hardware_store , reservoirs
+__label__beauty_salon , curtailment
+__label__cafe , iced tea
+__label__beauty_salon , trophy
+__label__hardware_store , hatch
+__label__book_store , section
+__label__clothing_store , jumpsuit
+__label__bar , dodecanol
+__label__department_store , coconut
+__label__hardware_store , suck
+__label__department_store , extraction
+__label__furniture_store , mosquito
+__label__hardware_store , chute
+__label__grocery_or_supermarket , grenades
+__label__furniture_store , leadership
+__label__jewelry_store , coral necklace
+__label__electronics_store , series
+__label__hardware_store , skills
+__label__bar , antiseptic
+__label__laundry , detergent
+__label__book_store , sketch pad
+__label__jewelry_store , armlet
+__label__bank , liquidity
+__label__shoe_store , bottoms
+__label__furniture_store , sofia
+__label__restaurant , sheldon
+__label__jewelry_store , armillary
+__label__clothing_store , become
+__label__department_store , gin
+__label__clothing_store , outfit
+__label__book_store , biro
+__label__gas_station , kiloliter
+__label__book_store , cardboard
+__label__laundry , nonabrasive
+__label__department_store , cuminol
+__label__shoe_store , resole
+__label__hardware_store , conduit
+__label__department_store , shop
+__label__hardware_store , vessel
+__label__book_store , ledger
+__label__hardware_store , compartment
+__label__bakery , gravy
+__label__atm , metal
+__label__laundry , weaving
+__label__department_store , hair gel
+__label__hardware_store , pools
+__label__shoe_store , cleats
+__label__bakery , ramekin
+__label__electronics_store , flood
+__label__grocery_or_supermarket , apples
+__label__department_store , wheat flour
+__label__restaurant , hungry
+__label__restaurant , breakfasts
+__label__department_store , poker chip
+__label__department_store , splintering
+__label__bakery , panettone
+__label__bar , break up
+__label__grocery_or_supermarket , litchi
+__label__jewelry_store , decorating
+__label__book_store , magnifying glass
+__label__furniture_store , host
+__label__furniture_store , causeuse
+__label__department_store , carbohydrate
+__label__bar , drunkeness
+__label__bank , treasure
+__label__furniture_store , sunset
+__label__clothing_store , playsuit
+__label__book_store , penalty
+__label__department_store , ame
+__label__book_store , darning needle
+__label__department_store , benzoyl peroxide
+__label__electronics_store , seedlings
+__label__electronics_store , adapter
+__label__grocery_or_supermarket , varieties
+__label__bar , drug dealer
+__label__bar , harm
+__label__jewelry_store , mob
+__label__furniture_store , nest
+__label__beauty_salon , manicure
+__label__department_store , fructose
+__label__atm , crib
+__label__electronics_store , circuitry
+__label__florist , crinum
+__label__cafe , islander
+__label__electronics_store , surge protector
+__label__book_store , magazine
+__label__department_store , restaurant
+__label__restaurant , anteprandial
+__label__gas_station , methylated spirits
+__label__shoe_store , keds
+__label__furniture_store , death chair
+__label__shoe_store , rooks
+__label__furniture_store , settee
+__label__cafe , cinnamon roll
+__label__shoe_store , overshoes
+__label__pharmacy , neurology
+__label__laundry , suctioning
+__label__department_store , palm sugar
+__label__book_store , log
+__label__department_store , anele
+__label__atm , boxed
+__label__cafe , burgers
+__label__hardware_store , gadgets
+__label__veterinary_care , pretty
+__label__department_store , soapbark
+__label__book_store , theory
+__label__gas_station , lpg
+__label__electronics_store , stamp battery
+__label__furniture_store , seating
+__label__electronics_store , starter motor
+__label__jewelry_store , snuffbox
+__label__department_store , layers
+__label__department_store , coffeemaker
+__label__book_store , writers
+__label__jewelry_store , capelet
+__label__department_store , prewash
+__label__hardware_store , sink
+__label__beauty_salon , coif
+__label__hardware_store , organ pipe
+__label__bakery , buttercream
+__label__department_store , capuccino
+__label__clothing_store , underpants
+__label__hardware_store , demurrage
+__label__bar , fumosity
+__label__shoe_store , stilettos
+__label__department_store , creeps
+__label__restaurant , comer
+__label__electronics_store , fortress
+__label__furniture_store , lectica
+__label__bar , dog food
+__label__book_store , pamphlet
+__label__department_store , shale
+__label__restaurant , cena
+__label__department_store , diner
+__label__laundry , automotive
+__label__beauty_salon , hairpiece
+__label__shoe_store , laces
+__label__veterinary_care , spoon
+__label__department_store , refreshment
+__label__department_store , iooc
+__label__jewelry_store , gai
+__label__jewelry_store , cufflink
+__label__book_store , foil
+__label__department_store , wash
+__label__jewelry_store , beep
+__label__furniture_store , barstool
+__label__book_store , box
+__label__cafe , cheesesteak
+__label__department_store , toiletry
+__label__pharmacy , tocology
+__label__atm , treasury
+__label__jewelry_store , ring
+__label__department_store , willies
+__label__bar , connery
+__label__hardware_store , pointer
+__label__clothing_store , address
+__label__department_store , stocks
+__label__cafe , herbal tea
+__label__book_store , manuals
+__label__bank , are
+__label__jewelry_store , circular
+__label__cafe , orangeade
+__label__bar , microbrewery
+__label__department_store , aramco
+__label__laundry , disinfectant
+__label__electronics_store , tank
+__label__department_store , sweetener
+__label__electronics_store , pachysandra
+__label__electronics_store , voltage
+__label__atm , monies
+__label__restaurant , roast beef
+__label__bank , cash
+__label__furniture_store , headboard
+__label__jewelry_store , decorate
+__label__furniture_store , eff
+__label__grocery_or_supermarket , mangosteens
+__label__department_store , sweeteners
+__label__department_store , toothpaste
+__label__department_store , cordials
+__label__bakery , stollen
+__label__gas_station , cylinder
+__label__electronics_store , crystal oscillator
+__label__department_store , moisturise
+__label__electronics_store , petioles
+__label__hardware_store , frameworks
+__label__hardware_store , pop
+__label__book_store , casebook
+__label__beauty_salon , salon
+__label__laundry , vacuuming
+__label__restaurant , feed
+__label__shoe_store , clodhoppers
+__label__bank , finance
+__label__department_store , motherboard
+__label__bar , scotch
+__label__book_store , magazine
+__label__hardware_store , calumet
+__label__laundry , soapsuds
+__label__restaurant , picnic
+__label__hardware_store , space
+__label__florist , flowers
+__label__hardware_store , fill
+__label__jewelry_store , store
+__label__jewelry_store , kutcher
+__label__department_store , soft water
+__label__atm , receipt
+__label__cafe , pastries
+__label__book_store , material
+__label__jewelry_store , gown
+__label__gas_station , gas guzzler
+__label__furniture_store , telly
+__label__pharmacy , panpharmacon
+__label__book_store , sketchbook
+__label__hardware_store , tunnel
+__label__restaurant , comer
+__label__bakery , fruitcake
+__label__book_store , napkin
+__label__bakery , shortbread
+__label__department_store , moisturizer
+__label__clothing_store , garment
+__label__bank , currency
+__label__furniture_store , credenza
+__label__shoe_store , sweatpants
+__label__bar , shandygaff
+__label__furniture_store , gurney
+__label__pharmacy , medications
+__label__bar , midori
+__label__gas_station , propane
+__label__gas_station , hatchback
+__label__cafe , pastry
+__label__pharmacy , iatrochemistry
+__label__grocery_or_supermarket , pears
+__label__cafe , tunafish
+__label__cafe , scone
+__label__hardware_store , drive
+__label__bakery , pie
+__label__hardware_store , depository
+__label__hardware_store , forebay
+__label__bar , lay off
+__label__cafe , sloppy joe
+__label__hardware_store , reservoir
+__label__bank , holdings
+__label__jewelry_store , colly
+__label__furniture_store , piece of furniture
+__label__electronics_store , voltaic cell
+__label__gas_station , ligroin
+__label__clothing_store , swimsuit
+__label__electronics_store , toolbox
+__label__gas_station , tankful
+__label__bakery , fondant
+__label__bar , pet food
+__label__book_store , page
+__label__bar , draft beer
+__label__beauty_salon , color
+__label__laundry , dishwashing detergent
+__label__department_store , zucker
+__label__pharmacy , field of study
+__label__beauty_salon , clearing
+__label__book_store , carnet
+__label__clothing_store , adapting
+__label__jewelry_store , stun
+__label__hardware_store , acts
+__label__bakery , streusel
+__label__department_store , emollients
+__label__bar , methal
+__label__department_store , windex
+__label__department_store , scones
+__label__department_store , antiperspirant
+__label__restaurant , appetite
+__label__shoe_store , nighties
+__label__furniture_store , foundation
+__label__book_store , manuscript
+__label__book_store , script
+__label__hardware_store , utensils
+__label__department_store , dishwashing liquid
+__label__veterinary_care , pup
+__label__department_store , plantation
+__label__gas_station , benzine
+__label__gas_station , lorry
+__label__department_store , pressers
+__label__furniture_store , nightstand
+__label__jewelry_store , ankh
+__label__clothing_store , disguise
+__label__furniture_store , futon
+__label__laundry , cleansed
+__label__gas_station , derv
+__label__bar , substance
+__label__department_store , caffe latte
+__label__furniture_store , bottom
+__label__bakery , shortcrust
+__label__book_store , wallpaper
+__label__gas_station , emission
+__label__book_store , pennage
+__label__furniture_store , have sex
+__label__bar , stagg
+__label__florist , gladiolas
+__label__grocery_or_supermarket , herbs
+__label__furniture_store , campstool
+__label__atm , availability
+__label__department_store , exfoliant
+__label__bakery , top
+__label__cafe , bagel
+__label__clothing_store , washing
+__label__hardware_store , capacities
+__label__jewelry_store , newel post
+__label__furniture_store , slipcover
+__label__book_store , scissors
+__label__beauty_salon , wig
+__label__bar , pale ale
+__label__furniture_store , dresser
+__label__department_store , tung oil
+__label__furniture_store , seabed
+__label__bar , brewski
+__label__bakery , shortbread cookie
+__label__cafe , taco
+__label__jewelry_store , cloisonne
+__label__electronics_store , amp
+__label__hardware_store , armored combat vehicle
+__label__furniture_store , seat
+__label__book_store , logbook
+__label__gas_station , gallon
+__label__department_store , pekoe
+__label__bakery , napoleons
+__label__cafe , coffeeroom
+__label__jewelry_store , bijoutry
+__label__laundry , linens
+__label__bakery , scone
+__label__department_store , eprom
+__label__restaurant , evening
+__label__bakery , bakery
+__label__jewelry_store , collar
+__label__department_store , crisps
+__label__jewelry_store , fight
+__label__restaurant , break
+__label__department_store , detersion
+__label__jewelry_store , car park
+__label__restaurant , barbeque
+__label__jewelry_store , cotter
+__label__florist , seedpods
+__label__bar , ovis
+__label__gas_station , petrol station
+__label__department_store , curling tongs
+__label__hardware_store , toolbars
+__label__department_store , tearooms
+__label__pharmacy , medication
+__label__gas_station , boilers
+__label__gas_station , oxyhydrogen
+__label__department_store , rooibos
+__label__hardware_store , methods
+__label__department_store , frits
+__label__atm , payment
+__label__bakery , scones
+__label__jewelry_store , keepsake
+__label__bank , washing
+__label__department_store , colognes
+__label__electronics_store , socket
+__label__cafe , meat
+__label__bar , see off
+__label__florist , amaryllis
+__label__gas_station , spiralling
+__label__bakery , genoise
+__label__bar , turn up
+__label__restaurant , cheese fondue
+__label__book_store , pen
+__label__book_store , reservation
+__label__shoe_store , needles
+__label__department_store , lather
+__label__clothing_store , suit of clothes
+__label__electronics_store , sharp
+__label__department_store , semiconductors
+__label__bakery , pie crust
+__label__bar , beverage
+__label__department_store , coffeeroom
+__label__gas_station , mhd
+__label__pharmacy , cardiology
+__label__book_store , write
+__label__restaurant , mealtime
+__label__gas_station , hypermiling
+__label__furniture_store , sufa
+__label__jewelry_store , joke
+__label__electronics_store , houseplant
+__label__book_store , lecture
+__label__department_store , dry hole
+__label__veterinary_care , beautiful
+__label__department_store , irish coffee
+__label__restaurant , mysterious
+__label__department_store , tags
+__label__book_store , handbook
+__label__pharmacy , group practice
+__label__department_store , bed tea
+__label__bar , attenborough
+__label__gas_station , diesel motor
+__label__hardware_store , capabilities
+__label__cafe , irish coffee
+__label__laundry , germy
+__label__hardware_store , creature
+__label__shoe_store , crunches
+__label__department_store , flash memory
+__label__bar , pilsner
+__label__bar , silver
+__label__book_store , press
+__label__clothing_store , coats
+__label__bar , beer
+__label__bakery , flaky pastry
+__label__furniture_store , fuck
+__label__department_store , chocolate
+__label__department_store , processors
+__label__clothing_store , jackets
+__label__jewelry_store , jewels
+__label__hardware_store , crap
+__label__book_store , album
+__label__department_store , marshmallow
+__label__jewelry_store , dresses
+__label__furniture_store , static
+__label__florist , gardenias
+__label__shoe_store , corsets
+__label__restaurant , potluck dinner
+__label__department_store , assamar
+__label__book_store , crochet hook
+__label__hardware_store , tutorials
+__label__department_store , lathers
+__label__department_store , silicon chip
+__label__shoe_store , sunglasses
+__label__beauty_salon , toupee
+__label__department_store , serums
+__label__furniture_store , lamp shade
+__label__jewelry_store , dreamcatcher
+__label__bar , nerol
+__label__florist , violets
+__label__jewelry_store , decoration
+__label__electronics_store , storage cell
+__label__bakery , mascarpone
+__label__department_store , castile
+__label__hardware_store , panzer
+__label__bar , go ahead
+__label__grocery_or_supermarket , ffv
+__label__jewelry_store , smoky quartz
+__label__furniture_store , crib
+__label__bank , expenditure
+__label__department_store , cafes
+__label__laundry , bleach
+__label__book_store , catalogue
+__label__laundry , repair
+__label__bakery , flourless
+__label__book_store , copy
+__label__florist , posies
+__label__pharmacy , treatment
+__label__department_store , burnt umber
+__label__furniture_store , bedclothes
+__label__jewelry_store , hard time
+__label__electronics_store , container
+__label__shoe_store , place
+__label__gas_station , propane
+__label__restaurant , afternoon
+__label__department_store , glogg
+__label__hardware_store , antitank
+__label__gas_station , milage
+__label__book_store , booklet
+__label__jewelry_store , cope with
+__label__jewelry_store , buzzer
+__label__clothing_store , befit
+__label__hardware_store , caisson
+__label__gas_station , mealie meal
+__label__cafe , coffee tree
+__label__grocery_or_supermarket , dewberries
+__label__gas_station , octane number
+__label__electronics_store , tulip
+__label__furniture_store , silla
+__label__cafe , shish kebab
+__label__jewelry_store , peridot
+__label__beauty_salon , body hair
+__label__book_store , pencil
+__label__book_store , textbooks
+__label__hardware_store , tools
+__label__beauty_salon , clear-cutting
+__label__bakery , rock cake
+__label__shoe_store , swampers
+__label__department_store , pomade
+__label__gas_station , tetri
+__label__gas_station , vehicles
+__label__bar , smoking
+__label__clothing_store , robes
+__label__bar , malt
+__label__bakery , chiffon cake
+__label__bar , colly
+__label__department_store , butter
+__label__bakery , vanilla pudding
+__label__clothing_store , uniform
+__label__gas_station , automobile engine
+__label__pharmacy , substances
+__label__furniture_store , sick
+__label__book_store , calligraphy
+__label__hardware_store , storehouse
+__label__jewelry_store , chain
+__label__bar , behaviour
+__label__furniture_store , rocking chair
+__label__laundry , driers
+__label__pharmacy , drugmaker
+__label__shoe_store , underwear
+__label__bar , bock beer
+__label__atm , beater
+__label__department_store , umber
+__label__pharmacy , pharma
+__label__furniture_store , bed
+__label__jewelry_store , jewelry
+__label__book_store , jotter
+__label__beauty_salon , perm
+__label__jewelry_store , choker
+__label__shoe_store , clothes
+__label__department_store , lubricant
+__label__veterinary_care , loved
+__label__hardware_store , nozzle
+__label__clothing_store , garbs
+__label__book_store , paper
+__label__restaurant , pile
+__label__bar , whiskey
+__label__pharmacy , cure
+__label__bakery , bread
+__label__jewelry_store , quilt
+__label__book_store , cardstock
+__label__restaurant , gala
+__label__bakery , bundt
+__label__bar , chaptalize
+__label__cafe , drip coffee
+__label__electronics_store , thermobattery
+__label__pharmacy , herbal medicine
+__label__atm , calorimeter
+__label__bar , smuggler
+__label__veterinary_care , dumb
+__label__book_store , typewriter
+__label__book_store , wrapping
+__label__cafe , espresso
+__label__clothing_store , comply
+__label__jewelry_store , crown
+__label__restaurant , chan
+__label__jewelry_store , corsage
+__label__jewelry_store , scarf
+__label__department_store , deodorant
+__label__bar , hooch
+__label__book_store , collection
+__label__bar , alcoholometric
+__label__department_store , barista
+__label__laundry , flushing
+__label__atm , cheque
+__label__department_store , mineral jelly
+__label__book_store , passbook
+__label__furniture_store , lounger
+__label__department_store , teaspoon
+__label__book_store , paperboard
+__label__department_store , checks
+__label__bakery , picnic
+__label__book_store , writing
+__label__shoe_store , underpants
+__label__florist , tiger lily
+__label__cafe , shop
+__label__furniture_store , pillow
+__label__pharmacy , space medicine
+__label__pharmacy , anacathartic
+__label__pharmacy , therapy
+__label__florist , ferns
+__label__electronics_store , barrage fire
+__label__bar , fusel oil
+__label__restaurant , scene
+__label__department_store , cafeteria
+__label__bakery , cupcakes
+__label__atm , silver
+__label__veterinary_care , ducky
+__label__gas_station , motor
+__label__department_store , cocoa
+__label__atm , casing
+__label__bar , fresh water
+__label__department_store , triptychs
+__label__bar , sauce
+__label__restaurant , pizza
+__label__hardware_store , appliances
+__label__gas_station , nafta
+__label__clothing_store , denims
+__label__department_store , know
+__label__bar , rum
+__label__jewelry_store , building society
+__label__electronics_store , heads
+__label__department_store , olie
+__label__cafe , cocoa
+__label__florist , efflorescence
+__label__furniture_store , trundle bed
+__label__veterinary_care , poodle
+__label__furniture_store , presided
+__label__department_store , sunscreen
+__label__department_store , segments
+__label__laundry , whatnot
+__label__electronics_store , set
+__label__jewelry_store , jewelry
+__label__book_store , penn
+__label__jewelry_store , headpiece
+__label__jewelry_store , gyre
+__label__department_store , coffer
+__label__bakery , cream
+__label__hardware_store , warehouse
+__label__hardware_store , barrel
+__label__bank , wherewithal
+__label__department_store , cow chip
+__label__veterinary_care , pooch
+__label__department_store , linen
+__label__jewelry_store , garland
+__label__book_store , riv
+__label__laundry , watering
+__label__hardware_store , socket
+__label__department_store , loop
+__label__furniture_store , couch
+__label__florist , garlands
+__label__book_store , compose
+__label__restaurant , taste
+__label__book_store , squiggle
+__label__grocery_or_supermarket , papayas
+__label__jewelry_store , wait on
+__label__book_store , magic marker
+__label__gas_station , biodiesel
+__label__clothing_store , outfits
+__label__shoe_store , shoelaces
+__label__department_store , chip off
+__label__gas_station , unleaded
+__label__electronics_store , electric lamp
+__label__jewelry_store , hoop
+__label__florist , fuchsias
+__label__hardware_store , gear
+__label__book_store , palette knife
+__label__jewelry_store , exornation
+__label__book_store , acrylic paint
+__label__department_store , invertin
+__label__gas_station , automobile engine
+__label__hardware_store , containers
+__label__book_store , notepad
+__label__department_store , chocolate
+__label__restaurant , meals
+__label__florist , poppies
+__label__shoe_store , trainers
+__label__bar , miss out
+__label__department_store , washing powder
+__label__furniture_store , bedspread
+__label__book_store , cabin
+__label__department_store , soda
+__label__grocery_or_supermarket , durians
+__label__furniture_store , announcements
+__label__jewelry_store , engraving
+__label__gas_station , stirling engine
+__label__furniture_store , chassis
+__label__bar , glass
+__label__bar , beerfest
+__label__electronics_store , holophote
+__label__jewelry_store , turn up
+__label__bar , antabuse
+__label__jewelry_store , kim
+__label__department_store , ointments
+__label__jewelry_store , grace
+__label__gas_station , dci
+__label__gas_station , catalytic converter
+__label__hardware_store , tile
+__label__department_store , scrubbing brush
+__label__electronics_store , arc light
+__label__restaurant , donuts
+__label__furniture_store , love seat
+__label__gas_station , species
+__label__hardware_store , aquarium
+__label__bar , drinking
+__label__gas_station , biofuel
+__label__furniture_store , bedlinen
+__label__electronics_store , thermometer
+__label__department_store , drinks
+__label__department_store , unsorted
+__label__gas_station , liter
+__label__department_store , toothbrush
+__label__bar , isopropyl
+__label__grocery_or_supermarket , peppers
+__label__book_store , feather
+__label__department_store , colours
+__label__jewelry_store , wedding dress
+__label__bar , bottle
+__label__cafe , coffeepot
+__label__pharmacy , dietetist
+__label__electronics_store , axis
+__label__book_store , sty
+__label__laundry , backwash
+__label__clothing_store , follows
+__label__jewelry_store , drug dealer
+__label__book_store , notepaper
+__label__gas_station , avgas
+__label__gas_station , fuel
+__label__clothing_store , satisfy
+__label__book_store , wallet
+__label__laundry , sanitizing
+__label__jewelry_store , corsage
+__label__department_store , starch
+__label__atm , money
+__label__book_store , article
+__label__jewelry_store , resound
+__label__gas_station , naphtha
+__label__gas_station , nitromethane
+__label__laundry , bathing
+__label__electronics_store , flower
+__label__laundry , squeegeeing
+__label__book_store , workbook
+__label__electronics_store , light bulb
+__label__bar , cup final
+__label__bar , light beer
+__label__bar , bair
+__label__jewelry_store , keychain
+__label__department_store , fleas
+__label__cafe , baked potato
+__label__electronics_store , lantern
+__label__bakery , gate
+__label__pharmacy , antidote
+__label__electronics_store , bunsen cell
+__label__clothing_store , adapted
+__label__pharmacy , healing
+__label__electronics_store , bulbaceous
+__label__bakery , breads
+__label__beauty_salon , clearcut
+__label__furniture_store , rocker
+__label__restaurant , cenatory
+__label__laundry , hand
+__label__clothing_store , courting
+__label__book_store , sop
+__label__jewelry_store , dispose of
+__label__gas_station , butane
+__label__book_store , ballpoints
+__label__department_store , sweetness
+__label__hardware_store , artifacts
+__label__veterinary_care , tame
+__label__jewelry_store , tintinnabulation
+__label__gas_station , hot bulb
+__label__department_store , grass
+__label__hardware_store , dick
+__label__restaurant , soiree
+__label__furniture_store , mattress
+__label__hardware_store , channelization
+__label__jewelry_store , candleholder
+__label__bakery , marble cake
+__label__book_store , works
+__label__florist , peonies
+__label__bar , opiates
+__label__jewelry_store , baubles
+__label__furniture_store , murphy bed
+__label__restaurant , refreshments
+__label__restaurant , cookout
+__label__department_store , bunker
+__label__gas_station , reciprocating engine
+__label__laundry , finishing
+__label__department_store , microchip
+__label__department_store , sweetmeat
+__label__grocery_or_supermarket , soursop
+__label__jewelry_store , adornment
+__label__veterinary_care , hamster
+__label__electronics_store , streetlight
+__label__grocery_or_supermarket , achievements
+__label__clothing_store , wear
+__label__book_store , paper
+__label__cafe , chocolate
+__label__jewelry_store , dollhouse
+__label__cafe , quiche
+__label__book_store , binder
+__label__cafe , beans
+__label__book_store , stamp pad
+__label__beauty_salon , coupe
+__label__hardware_store , means
+__label__gas_station , tractors
+__label__bakery , nougat
+__label__department_store , eau de toilette
+__label__jewelry_store , figurine
+__label__gas_station , feedstock
+__label__book_store , writing
+__label__cafe , italian sandwich
+__label__department_store , check
+__label__atm , buck
+__label__jewelry_store , knell
+__label__bakery , meringue
+__label__furniture_store , convener
+__label__florist , peak
+__label__book_store , paper
+__label__hardware_store , chamber
+__label__department_store , soup
+__label__department_store , diesel
+__label__bar , scotch
+__label__hardware_store , conduction
+__label__book_store , stick
+__label__cafe , beverage
+__label__florist , petunias
+__label__clothing_store , vesture
+__label__bar , favourite
+__label__laundry , laundering
+__label__book_store , brads
+__label__department_store , treasure
+__label__grocery_or_supermarket , jalapenos
+__label__jewelry_store , topaz
+__label__clothing_store , panties
+__label__bakery , pee
+__label__electronics_store , scotch pine
+__label__book_store , decimal
+__label__department_store , lemonade
+__label__bank , dough
+__label__hardware_store , vase
+__label__furniture_store , seam
+__label__restaurant , diner
+__label__beauty_salon , goblet
+__label__jewelry_store , doorbell
+__label__jewelry_store , sculpture
+__label__department_store , rope
+__label__department_store , refineries
+__label__department_store , sachet
+__label__florist , dahlias
+__label__jewelry_store , prepare for
+__label__gas_station , gas
+__label__jewelry_store , dcor
+__label__book_store , mandoline
+__label__atm , trade
+__label__beauty_salon , clipping
+__label__department_store , chippings
+__label__cafe , ham sandwich
+__label__bakery , quiche lorraine
+__label__beauty_salon , drape
+__label__clothing_store , trousers
+__label__hardware_store , tubular
+__label__hardware_store , pipework
+__label__cafe , macchiato
+__label__clothing_store , naked
+__label__electronics_store , heap
+__label__cafe , cif
+__label__gas_station , nature
+__label__bakery , genoise
+__label__bank , fee
+__label__atm , encashment
+__label__electronics_store , wounding
+__label__book_store , literary
+__label__department_store , fines
+__label__department_store , hair dye
+__label__florist , fritillaria
+__label__department_store , doritos
+__label__bakery , patty
+__label__beauty_salon , pedicure
+__label__clothing_store , conform
+__label__department_store , sloe gin
+__label__furniture_store , lounge chair
+__label__bar , brewpub
+__label__department_store , oilseed
+__label__pharmacy , anaesthesiology
+__label__hardware_store , mantelpiece
+__label__department_store , cafs
+__label__shoe_store , wingtips
+__label__bank , mandate
+__label__book_store , account
+__label__cafe , cafeteria
+__label__furniture_store , futon
+__label__electronics_store , range
+__label__book_store , eraser
+__label__department_store , frappuccino
+__label__jewelry_store , eye
+__label__clothing_store , prosecute
+__label__department_store , purell
+__label__atm , cash
+__label__department_store , petrolatum
+__label__laundry , peeling
+__label__book_store , volumes
+__label__furniture_store , presidium
+__label__electronics_store , reservoir
+__label__jewelry_store , necked
+__label__bar , go into
+__label__atm , effective
+__label__electronics_store , tuber
+__label__hardware_store , pipelining
+__label__jewelry_store , lapis
+__label__gas_station , mineral oil
+__label__hardware_store , equipped
+__label__bar , casket
+__label__department_store , mauby
+__label__department_store , cappuccino
+__label__gas_station , car
+__label__cafe , cafs
+__label__restaurant , suppertime
+__label__book_store , paper
+__label__bakery , praline
+__label__cafe , arabica
+__label__bakery , ice-cream
+__label__furniture_store , riverbed
+__label__hardware_store , filling
+__label__book_store , penwiper
+__label__jewelry_store , lampshade
+__label__hardware_store , storage
+__label__department_store , cofee
+__label__electronics_store , laptop
+__label__bank , retraining
+__label__gas_station , powerplant
+__label__furniture_store , spot
+__label__restaurant , hungry
+__label__furniture_store , bookcase
+__label__department_store , fired
+__label__laundry , franchised
+__label__clothing_store , socks
+__label__furniture_store , chamber
+__label__florist , daisies
+__label__restaurant , cooking
+__label__hardware_store , drum
+__label__electronics_store , incandescent
+__label__cafe , caffeine
+__label__department_store , caffeine
+__label__electronics_store , water heater
+__label__jewelry_store , dog food
+__label__cafe , pies
+__label__electronics_store , stamp mill
+__label__gas_station , pneumatic trough
+__label__jewelry_store , surround
+__label__book_store , hoosegow
+__label__veterinary_care , popular
+__label__florist , sweetpeas
+__label__veterinary_care , beagle
+__label__book_store , series
+__label__department_store , drip
+__label__hardware_store , toolkit
+__label__jewelry_store , clamp
+__label__restaurant , cookout
+__label__furniture_store , divan
+__label__hardware_store , channelled
+__label__department_store , hydrocarbon
+__label__cafe , donuts
+__label__electronics_store , poinsettia
+__label__clothing_store , t-shirts
+__label__department_store , sponge down
+__label__florist , roses
+__label__jewelry_store , rich man
+__label__bakery , duxelles
+__label__pharmacy , circle
+__label__department_store , melado
+__label__bank , aid
+__label__department_store , petrochemical
+__label__electronics_store , halogens
+__label__jewelry_store , polanski
+__label__grocery_or_supermarket , dividends
+__label__bar , bourbon
+__label__book_store , papier
+__label__veterinary_care , animalistic
+__label__bar , vanilla
+__label__hardware_store , shrill
+__label__hardware_store , hummer
+__label__cafe , reuben
+__label__gas_station , pump
+__label__department_store , matcha
+__label__jewelry_store , quillwork
+__label__gas_station , heat engine
+__label__book_store , paperwork
+__label__gas_station , yau
+__label__restaurant , grub
+__label__laundry , germicides
+__label__bar , ethanol
+__label__restaurant , buffett
+__label__jewelry_store , cordon
+__label__cafe , illy
+__label__bar , brews
+__label__beauty_salon , colour
+__label__grocery_or_supermarket , foetuses
+__label__gas_station , rock oil
+__label__book_store , handout
+__label__book_store , publication
+__label__bar , rye
+__label__bar , beira
+__label__jewelry_store , porcelain
+__label__gas_station , liquefied petroleum gas
+__label__department_store , iced tea
+__label__bar , cup tie
+__label__bank , buck
+__label__furniture_store , electric chair
+__label__atm , commercial
+__label__furniture_store , piece of furniture
+__label__book_store , genealogy
+__label__hardware_store , guan
+__label__clothing_store , sweat pants
+__label__furniture_store , office
+__label__bakery , crumb cake
+__label__gas_station , forecourt
+__label__jewelry_store , anchor ring
+__label__hardware_store , vat
+__label__jewelry_store , decor
+__label__hardware_store , skank
+__label__bar , drugs
+__label__pharmacy , pharmaceutical
+__label__clothing_store , sandals
+__label__department_store , cocoa powder
+__label__restaurant , prix fixe
+__label__veterinary_care , positron emission tomography
+__label__furniture_store , leader
+__label__veterinary_care , puppy
+__label__department_store , corn sugar
+__label__furniture_store , speaker
+__label__florist , florets
+__label__furniture_store , dressing gown
+__label__cafe , sausage
+__label__furniture_store , officiated
+__label__restaurant , crudites
+__label__bakery , pie
+__label__electronics_store , drummer
+__label__department_store , chrism
+__label__furniture_store , make love
+__label__department_store , antiseptic
+__label__hardware_store , bin
+__label__cafe , expresso
+__label__department_store , buffalo chip
+__label__furniture_store , gavel
+__label__clothing_store , nightgowns
+__label__pharmacy , eucaine
+__label__beauty_salon , shampoo
+__label__veterinary_care , tec
+__label__hardware_store , glass
+__label__gas_station , householders
+__label__gas_station , tankers
+__label__laundry , dishwashing
+__label__clothing_store , respond
+__label__restaurant , oyster stew
+__label__hardware_store , pot
+__label__electronics_store , cold cathode
+__label__department_store , bean
+__label__bakery , eclairs
+__label__department_store , bagels
+__label__book_store , kite
+__label__bank , wash
+__label__hardware_store , pipeline
+__label__electronics_store , printed
+__label__electronics_store , pool
+__label__jewelry_store , clough
+__label__laundry , unclean
+__label__cafe , robusta
+__label__veterinary_care , puff
+__label__department_store , perfume
+__label__hardware_store , devices
+__label__furniture_store , chairman
+__label__electronics_store , bottle
+__label__book_store , statement
+__label__veterinary_care , journeyman
+__label__jewelry_store , network
+__label__clothing_store , groceries
+__label__gas_station , galloon
+__label__bank , quid
+__label__bakery , victoria sponge
+__label__gas_station , butane
+__label__gas_station , heating oil
+__label__jewelry_store , cheque
+__label__gas_station , combustible
+__label__department_store , soapmaking
+__label__department_store , mouthwash
+__label__beauty_salon , cup
+__label__bank , fund
+__label__department_store , saccharide
+__label__bank , property
+__label__bar , yeast
+__label__clothing_store , underclothes
+__label__shoe_store , blue jean
+__label__beauty_salon , stylist
+__label__furniture_store , presidential
+__label__book_store , doorknob
+__label__book_store , copperplate
+__label__restaurant , eat
+__label__department_store , crikey
+__label__furniture_store , room
+__label__department_store , maltose
+__label__furniture_store , couch
+__label__book_store , sharpie
+__label__book_store , journal
+__label__department_store , sorbose
+__label__hardware_store , visualization
+__label__furniture_store , couch
+__label__book_store , notepaper
+__label__hardware_store , cistern
+__label__bar , keg
+__label__furniture_store , chairmen
+__label__atm , lump
+__label__laundry , process
+__label__gas_station , benzene
+__label__jewelry_store , aureole
+__label__atm , ringer
+__label__jewelry_store , suspender belt
+__label__department_store , turbinado
+__label__jewelry_store , paradiso
+__label__jewelry_store , brooches
+__label__department_store , crocose
+__label__furniture_store , seafloor
+__label__pharmacy , medicina
+__label__restaurant , prix fixe
+__label__hardware_store , behaviour
+__label__jewelry_store , stickpin
+__label__department_store , potato chip
+__label__beauty_salon , goatee
+__label__atm , moola
+__label__cafe , biscotti
+__label__beauty_salon , crop
+__label__furniture_store , heat
+__label__laundry , packing
+__label__florist , ixora
+__label__cafe , ciabatta
+__label__hardware_store , instrumentation
+__label__gas_station , mpg
+__label__department_store , crisp
+__label__clothing_store , hajib
+__label__restaurant , banquet
+__label__department_store , aware
+__label__electronics_store , hippeastrum
+__label__hardware_store , cell
+__label__cafe , patty
+__label__clothing_store , sarongs
+__label__department_store , tide
+__label__furniture_store , overstuffed chair
+__label__book_store , author
+__label__book_store , notepad
+__label__jewelry_store , sleigh bell
+__label__bar , booze
+__label__grocery_or_supermarket , cantaloupe
+__label__department_store , cup
+__label__book_store , map
+__label__department_store , cooler
+__label__bakery , angel cake
+__label__hardware_store , levers
+__label__pharmacy , allopathy
+__label__cafe , java
+__label__bakery , pastry
+__label__bar , turned out
+__label__jewelry_store , glamour
+__label__department_store , separates
+__label__furniture_store , pouffe
+__label__book_store , bin
+__label__book_store , compilation
+__label__bank , profit
+__label__department_store , turkish coffee
+__label__hardware_store , armor
+__label__electronics_store , extraction
+__label__hardware_store , utility
+__label__electronics_store , tree
+__label__furniture_store , cello
+__label__restaurant , picnic
+__label__furniture_store , presidencies
+__label__department_store , dishwashing liquid
+__label__jewelry_store , burl
+__label__jewelry_store , diamante
+__label__furniture_store , dust ruffle
+__label__hardware_store , passage
+__label__grocery_or_supermarket , clementines
+__label__furniture_store , bassinette
+__label__jewelry_store , candleholder
+__label__department_store , ablutomania
+__label__department_store , malt sugar
+__label__gas_station , supermarket
+__label__jewelry_store , heirloom
+__label__gas_station , excise duty
+__label__book_store , bibliographic
+__label__furniture_store , bureau
+__label__book_store , livre
+__label__cafe , coffee bean
+__label__atm , processor
+__label__bakery , cake
+__label__jewelry_store , jeweler
+__label__cafe , soft drink
+__label__electronics_store , luminaire
+__label__department_store , devonshire cream
+__label__furniture_store , glass
+__label__restaurant , dining
+__label__furniture_store , throw pillow
+__label__clothing_store , dispute
+__label__electronics_store , gloxinia
+__label__hardware_store , floats
+__label__shoe_store , hoofs
+__label__bar , wells
+__label__bank , ticket
+__label__florist , primroses
+__label__pharmacy , remedies
+__label__hardware_store , catchment
+__label__electronics_store , bulb
+__label__electronics_store , car battery
+__label__department_store , crab
+__label__bank , dime
+__label__bank , paid
+__label__book_store , inkpot
+__label__department_store , tra
+__label__restaurant , shindig
+__label__cafe , voice
+__label__shoe_store , leggings
+__label__book_store , report
+__label__furniture_store , cushions
+__label__hardware_store , algorithms
+__label__electronics_store , heat dissipation
+__label__jewelry_store , pendant
+__label__gas_station , refineries
+__label__cafe , meatball
+__label__jewelry_store , flower
+__label__book_store , manuscript
+__label__jewelry_store , reverberate
+__label__pharmacy , acupuncture
+__label__gas_station , cars
+__label__hardware_store , trajectories
+__label__department_store , minoxidil
+__label__clothing_store , sweatpants
+__label__jewelry_store , lucite
+__label__department_store , flake
+__label__beauty_salon , tresses
+__label__book_store , monograph
+__label__furniture_store , streambed
+__label__hardware_store , tanker
+__label__department_store , dwi
+__label__bar , drinks
+__label__shoe_store , hooves
+__label__book_store , leger
+__label__jewelry_store , open day
+__label__laundry , soap dispenser
+__label__electronics_store , arsenal
+__label__shoe_store , underclothing
+__label__laundry , solvents
+__label__book_store , sketchbook
+__label__department_store , appetite
+__label__department_store , bituminous
+__label__jewelry_store , pine cone
+__label__cafe , muffin
+__label__clothing_store , proceeding
+__label__electronics_store , raft
+__label__laundry , brushing
+__label__department_store , espresso
+__label__grocery_or_supermarket , avocados
+__label__bar , bank holiday
+__label__grocery_or_supermarket , strawberries
+__label__jewelry_store , handbag
+__label__laundry , soaking
+__label__shoe_store , gloves
+__label__book_store , books
+__label__book_store , novel
+__label__bar , oil rig
+__label__gas_station , meths
+__label__jewelry_store , arena
+__label__restaurant , entree
+__label__beauty_salon , section
+__label__furniture_store , chaise
+__label__department_store , dishwashing
+__label__shoe_store , sleepers
+__label__bar , alcoholic beverage
+__label__furniture_store , chesterfield
+__label__book_store , literature
+__label__jewelry_store , play down
+__label__restaurant , doggy bag
+__label__bar , britannia
+__label__grocery_or_supermarket , vegetables
+__label__gas_station , refiners
+__label__grocery_or_supermarket , loquat
+__label__jewelry_store , trinket
+__label__jewelry_store , show off
+__label__jewelry_store , candelabrum
+__label__book_store , papermaking
+__label__book_store , ink
+__label__electronics_store , freshet
+__label__book_store , diary
+__label__bakery , apple dumpling
+__label__restaurant , table
+__label__jewelry_store , call off
+__label__clothing_store , underwear
+__label__bank , payoff
+__label__cafe , wind
+__label__bakery , muffins
+__label__department_store , whitener
+__label__beauty_salon , hairstylist
+__label__electronics_store , hood
+__label__furniture_store , desk
+__label__bakery , croissant
+__label__clothing_store , tuxedo
+__label__jewelry_store , sequin
+__label__jewelry_store , jewellery
+__label__cafe , roast beef
+__label__hardware_store , drain
+__label__bank , price
+__label__pharmacy , practice
+__label__book_store , drawing
+__label__grocery_or_supermarket , bilberries
+__label__cafe , cafes
+__label__shoe_store , heels
+__label__laundry , dryers
+__label__department_store , melodrama
+__label__bar , caffeinism
+__label__jewelry_store , square
+__label__bank , appropriation
+__label__bar , maltworm
+__label__veterinary_care , baby
+__label__department_store , chamomile
+__label__book_store , son
+__label__cafe , caf
+__label__gas_station , motorway
+__label__gas_station , gasolene
+__label__book_store , mine
+__label__electronics_store , milliampere
+__label__restaurant , price
+__label__book_store , inventory
+__label__gas_station , petroleum
+__label__cafe , hotdog bun
+__label__gas_station , incendiary
+__label__furniture_store , uncovered
+__label__laundry , shampooing
+__label__gas_station , dross
+__label__bakery , brioche
+__label__pharmacy , pediatric medicine
+__label__jewelry_store , saltire
+__label__restaurant , midday
+__label__furniture_store , sex
+__label__book_store , trivets
+__label__department_store , teacup
+__label__jewelry_store , dogwood tree
+__label__beauty_salon , barnet
+__label__gas_station , kerosene
+__label__department_store , tub
+__label__department_store , flour
+__label__hardware_store , dope
+__label__department_store , huile
+__label__veterinary_care , bug
+__label__department_store , camomile tea
+__label__electronics_store , sconce
+__label__cafe , drip
+__label__bakery , sacher torte
+__label__laundry , dirtying
+__label__clothing_store , raincoats
+__label__bar , foreshot
+__label__bar , play down
+__label__furniture_store , bedroom
+__label__book_store , textbook
+__label__gas_station , jerrican
+__label__electronics_store , recharge
+__label__restaurant , appetizers
+__label__bar , budweiser
+__label__cafe , alternation
+__label__gas_station , ltrs
+__label__laundry , hygiene
+__label__bar , ruddock
+__label__laundry , printing
+__label__jewelry_store , earrings
+__label__book_store , enclosure
+__label__book_store , penmanship
+__label__bakery , ravioli
+__label__laundry , hosing
+__label__hardware_store , pleas
+__label__department_store , dipstick
+__label__bar , rambooze
+__label__book_store , tangent
+__label__department_store , kir
+__label__bakery , pastry
+__label__jewelry_store , ding
+__label__bank , borrowing
+__label__department_store , teapot
+__label__jewelry_store , cyclization
+__label__atm , cash in
+__label__clothing_store , towels
+__label__furniture_store , preside
+__label__department_store , toothbrush
+__label__restaurant , brunch
+__label__bank , hay
+__label__jewelry_store , pavarotti
+__label__department_store , whiskey
+__label__jewelry_store , fascinator
+__label__laundry , fluid
+__label__gas_station , specie
+__label__laundry , cleansing
+__label__laundry , fomites
+__label__book_store , text
+__label__furniture_store , footstool
+__label__hardware_store , bowl
+__label__department_store , sudsing
+__label__bar , underproof
+__label__clothing_store , bathing suit
+__label__restaurant , elevenses
+__label__jewelry_store , round
+__label__jewelry_store , finial
+__label__hardware_store , facilities
+__label__furniture_store , platform
+__label__hardware_store , basin
+__label__electronics_store , phalaenopsis
+__label__shoe_store , sneakers
+__label__veterinary_care , company
+__label__veterinary_care , fart
+__label__jewelry_store , tolled
+__label__cafe , bacon
+__label__hardware_store , modes
+__label__cafe , smoothie
+__label__shoe_store , slingbacks
+__label__furniture_store , chaise longue
+__label__veterinary_care , pug
+__label__florist , carnations
+__label__veterinary_care , tep
+__label__department_store , pastries
+__label__hardware_store , aquaria
+__label__grocery_or_supermarket , pomegranates
+__label__atm , disbursement
+__label__furniture_store , pulpit
+__label__furniture_store , night table
+__label__pharmacy , acology
+__label__cafe , cheeseburger
+__label__cafe , focaccia
+__label__laundry , disinfecting
+__label__florist , jonquils
+__label__restaurant , menu
+__label__jewelry_store , belt
+__label__department_store , sandsoap
+__label__restaurant , iftar
+__label__jewelry_store , sconce
+__label__cafe , burnt umber
+__label__grocery_or_supermarket , edibles
+__label__veterinary_care , doggie
+__label__department_store , sweetheart
+__label__department_store , coffee berry
+__label__electronics_store , aggression
+__label__laundry , yee
+__label__bar , longneck
+__label__veterinary_care , fondle
+__label__bakery , flannel cake
+__label__department_store , albin
+__label__jewelry_store , halo
+__label__bar , alcoholometer
+__label__book_store , bookmark
+__label__bar , drug addiction
+__label__laundry , washables
+__label__shoe_store , plimsolls
+__label__gas_station , diesel fuel
+__label__beauty_salon , combover
+__label__grocery_or_supermarket , mulberries
+__label__department_store , abluent
+__label__department_store , refining
+__label__electronics_store , watt
+__label__bar , draught beer
+__label__clothing_store , coat
+__label__bakery , flan
+__label__bakery , cheesecake
+__label__department_store , rock candy
+__label__hardware_store , hkma
+__label__department_store , minute
+__label__cafe , islanders
+__label__bar , taprooms
+__label__department_store , shards
+__label__veterinary_care , kennel
+__label__laundry , washout
+__label__book_store , dabber
+__label__jewelry_store , sound
+__label__bank , liquid
+__label__veterinary_care , little
+__label__hardware_store , pipe
+__label__restaurant , hamburger
+__label__furniture_store , chief
+__label__book_store , foolscap
+__label__hardware_store , solutions
+__label__department_store , silicon
+__label__book_store , indian ink
+__label__bar , ted
+__label__book_store , gazette
+__label__cafe , deep brown
+__label__hardware_store , pipelines
+__label__electronics_store , drum
+__label__department_store , banana
+__label__gas_station , galloon
+__label__department_store , suger
+__label__atm , capital
+__label__jewelry_store , cup tie
+__label__department_store , toothpaste
+__label__furniture_store , mattress pad
+__label__department_store , eyeball
+__label__bar , brewing
+__label__hardware_store , tub
+__label__department_store , dishcloth
+__label__jewelry_store , encarpus
+__label__clothing_store , twill
+__label__jewelry_store , rim
+__label__pharmacy , med
+__label__book_store , textbook
+__label__jewelry_store , shackle
+__label__shoe_store , shackles
+__label__laundry , cleaned
+__label__bakery , confectionery
+__label__clothing_store , trial
+__label__cafe , veal parmesan
+__label__bar , bring out
+__label__jewelry_store , racetrack
+__label__department_store , social
+__label__jewelry_store , decoupage
+__label__book_store , script
+__label__beauty_salon , mane
+__label__bar , aintree
+__label__bakery , cakes
+__label__veterinary_care , friend
+__label__electronics_store , ixora
+__label__shoe_store , pantyhose
+__label__bakery , roulade
+__label__jewelry_store , serve up
+__label__florist , daphne
+__label__department_store , softener
+__label__grocery_or_supermarket , successes
+__label__bar , brandy
+__label__hardware_store , plenum
+__label__jewelry_store , nucleus
+__label__cafe , baguette
+__label__cafe , soft pretzel
+__label__clothing_store , correspond
+__label__furniture_store , twinkle
+__label__restaurant , lunchtime
+__label__restaurant , salad bar
+__label__restaurant , dinner party
+__label__restaurant , party
+__label__jewelry_store , parlour
+__label__beauty_salon , cross-sectional
+__label__department_store , toilet soap
+__label__bank , penny
+__label__atm , amount
+__label__book_store , playscript
+__label__bakery , shop
+__label__jewelry_store , anklet
+__label__furniture_store , be intimate
+__label__bakery , ganache
+__label__shoe_store , boots
+__label__hardware_store , truck
+__label__veterinary_care , favourite
+__label__bar , substance abuse
+__label__restaurant , breakfast
+__label__department_store , bullets
+__label__furniture_store , crib
+__label__electronics_store , flashlight
+__label__cafe , coffe
+__label__bar , trade in
+__label__jewelry_store , life saver
+__label__furniture_store , tablecloth
+__label__department_store , candy
+__label__bakery , bakery
+__label__department_store , sweetie
+__label__bakery , scotch pancake
+__label__cafe , iced coffee
+__label__bar , bring in
+__label__book_store , corrigendum
+__label__electronics_store , microampere
+__label__clothing_store , jog
+__label__shoe_store , kicks
+__label__shoe_store , patent leather
+__label__book_store , pencil
+__label__hardware_store , jar
+__label__furniture_store , daybed
+__label__department_store , deterge
+__label__gas_station , fleets
+__label__book_store , biro
+__label__laundry , toweling
+__label__florist , rosebush
+__label__hardware_store , throat
+__label__jewelry_store , rings
+__label__book_store , drawer
+__label__bar , wind up
+__label__department_store , washing
+__label__clothing_store , blouse
+__label__furniture_store , bedroom
+__label__bakery , shortcake
+__label__department_store , petrol
+__label__gas_station , biogas
+__label__shoe_store , stockings
+__label__department_store , mascara
+__label__book_store , stockade
+__label__department_store , granulated sugar
+__label__book_store , bookstore
+__label__department_store , jitters
+__label__electronics_store , drought
+__label__hardware_store , car
+__label__book_store , fountain
+__label__laundry , scrubber
+__label__bar , split up
+__label__veterinary_care , darling
+__label__pharmacy , doctors
+__label__bank , wallet
+__label__department_store , tiles
+__label__furniture_store , bookshelf
+__label__electronics_store , device
+__label__hardware_store , float
+__label__florist , bloom
+__label__cafe , mulled cider
+__label__bar , rye
+__label__clothing_store , undergarments
+__label__bakery , twinkie
+__label__shoe_store , pumps
+__label__clothing_store , getup
+__label__veterinary_care , cer
+__label__grocery_or_supermarket , finger millet
+__label__hardware_store , spray
+__label__hardware_store , box
+__label__furniture_store , floor
+__label__restaurant , cenatory
+__label__bar , brewers
+__label__jewelry_store , amethyst
+__label__atm , fund
+__label__furniture_store , bench
+__label__hardware_store , materials
+__label__bakery , chocolate
+__label__hardware_store , tip
+__label__atm , crate
+__label__hardware_store , equipment
+__label__bar , inhalants
+__label__grocery_or_supermarket , boysenberries
+__label__bar , excise
+__label__department_store , aftershave
+__label__department_store , platelets
+__label__electronics_store , glow lamp
+__label__atm , sum
+__label__book_store , dabber
+__label__bar , methol
+__label__bakery , piecrust
+__label__jewelry_store , diamond
+__label__restaurant , burger
+__label__veterinary_care , sweetheart
+__label__gas_station , burning
+__label__shoe_store , mary janes
+__label__restaurant , takeout
+__label__restaurant , feeding
+__label__department_store , toothbrushes
+__label__jewelry_store , snap up
+__label__bakery , lavash
+__label__furniture_store , cristal
+__label__book_store , hold
+__label__hardware_store , lid
+__label__jewelry_store , boxing day
+__label__pharmacy , medicate
+__label__bar , drunk
+__label__bakery , snap
+__label__cafe , snack
+__label__department_store , lightener
+__label__furniture_store , loveseat
+__label__bakery , dough
+__label__jewelry_store , winehouse
+__label__book_store , green
+__label__restaurant , nosh
+__label__department_store , brew
+__label__cafe , tea break
+__label__clothing_store , custom
+__label__jewelry_store , tie up
+__label__electronics_store , incandescent lamp
+__label__furniture_store , roomette
+__label__department_store , chai
+__label__bakery , sundae
+__label__department_store , sparkles
+__label__restaurant , luncheon
+__label__bakery , kicker
+__label__book_store , memoir
+__label__jewelry_store , rag rug
+__label__department_store , intoxication
+__label__gas_station , lpg
+__label__clothing_store , wardrobe
+__label__electronics_store , storage battery
+__label__beauty_salon , shearing
+__label__hardware_store , brier
+__label__book_store , ledger
+__label__beauty_salon , dreadlocks
+__label__electronics_store , flask
+__label__bar , fall for
+__label__bar , kick in
+__label__book_store , eyebrow pencil
+__label__gas_station , ltrs
+__label__department_store , era
+__label__gas_station , ulsd
+__label__furniture_store , wing chair
+__label__furniture_store , rug
+__label__bank , coinage
+__label__furniture_store , vice-president
+__label__department_store , bubble bath
+__label__bar , boxing day
+__label__book_store , hole
+__label__gas_station , methanol
+__label__department_store , refreshment
+__label__jewelry_store , jeweller
+__label__restaurant , continental breakfast
+__label__book_store , note
+__label__pharmacy , homeopathy
+__label__clothing_store , match
+__label__jewelry_store , ringer
+__label__laundry , oiling
+__label__bar , suds
+__label__hardware_store , driveline
+__label__book_store , catalog
+__label__department_store , classes
+__label__jewelry_store , carolitic
+__label__laundry , laundering
+__label__book_store , fence
+__label__veterinary_care , animal
+__label__laundry , flossing
+__label__hardware_store , ones
+__label__veterinary_care , cute
+__label__book_store , foolscap
+__label__furniture_store , loveseat
+__label__bar , booze
+__label__beauty_salon , mower
+__label__hardware_store , flue
+__label__gas_station , petrol
+__label__restaurant , lobster thermidor
+__label__clothing_store , shirts
+__label__jewelry_store , alex
+__label__department_store , sudsy
+__label__hardware_store , funnel
+__label__jewelry_store , sell off
+__label__book_store , whiteboard
+__label__atm , revenue
+__label__department_store , latte
+__label__jewelry_store , hot weather
+__label__bank , fiscal
+__label__jewelry_store , frank lloyd wright
+__label__department_store , sec

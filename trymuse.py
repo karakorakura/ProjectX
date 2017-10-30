@@ -7,14 +7,23 @@ pencil_syn=api.words(ml="pencil")
 #	print(x[u'word']+" ")
 
 file=open("test_data.txt","r")
-writefile=open("tag.txt","w")
+fileWords=open("wordsDataSet.txt","w")
+fileSentences = open("sentencesDataSet.txt","w")
 
 for line in file:
 	line = line.strip()
-	tagword=line.split()
-	tag_syn=api.words(ml=tagword[0])
+	tagword=line.rsplit(' ',1)
+	word1 = tagword[0].strip()
+	tag_syn=api.words(ml=word1)
+	sentence1=""
 	for x in tag_syn:
-		writefile.write(x[u'word'].encode('ascii','ignore')+"__label__"+tagword[1]+"\n")
+		sentence1 += x[u'word'].encode('ascii','ignore') + " ";
+		fileWords.write("__label__"+tagword[1]+" , "+x[u'word'].encode('ascii','ignore')+"\n")
+	fileWords.write("__label__"+tagword[1]+" , "+word1+"\n")
+	fileSentences.write("__label__"+tagword[1]+" , "+word1+" , "+sentence1+"\n")
+	# 	writefile.write("__label__"+tagword[1]+" , "+x[u'word'].encode('ascii','ignore')+"\n")
 
-writefile.close()
+
+fileWords.close()
+fileSentences.close()
 file.close()
