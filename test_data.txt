@@ -1,20 +1,20 @@
-soap
-pencil
-pen
-tea
-coffee
-bulb
-tubelight
-medicine
-book
-money
-cash
-flowers
-fruits
-cake
-clothes
-paper
-jewelry
-shampoo
-oil
-sugar
+soap department_store
+pencil book_store
+pen book_store
+tea department_store
+coffee department_store
+bulb electronics_store
+tubelight electronics_store
+medicine pharmacy
+book book_store
+money bank
+cash atm
+flowers florist 
+fruits grocery_or_supermarket
+cake bakery
+clothes clothing_store
+paper book_store
+jewellery jewelry_store
+shampoo department_store
+oil department_store
+sugar department_store
